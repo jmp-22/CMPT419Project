@@ -135,10 +135,14 @@ class ATCAnnotationGUI(QMainWindow):
             # Reset question type combo
             self.question_type_combo.setCurrentIndex(0)
             
+            # Play audio
+            self.play_audio()
+            
     def update_label(self):
         selected_type = self.question_type_combo.currentText()
         if selected_type != "Select Type":
             self.current_label.setText(f"Current Label: {selected_type}")
+            self.next_clip()
             
 
     def next_clip(self):
