@@ -8,6 +8,12 @@ from PyQt5.QtCore import QUrl
 import sounddevice as sd
 import soundfile as sf
 
+'''
+ATC Audio Annotation Tool
+This tool allows users to annotate audio files with specific labels.
+The tool provides a GUI for loading audio files, playing them, and selecting labels from a dropdown menu.
+The annotations are saved in a CSV file.
+'''
 class ATCAnnotationGUI(QMainWindow):
     def __init__(self, csv_path, audio_directory, current_index=0):
         super().__init__()
@@ -165,7 +171,6 @@ class ATCAnnotationGUI(QMainWindow):
 
     def save_current_annotation(self):
         # Check if a type is selected
-        # Check if a type is selected
         selected_type = self.question_type_combo.currentText()
         if selected_type != "Select Type":
             # Get current row index
@@ -210,8 +215,8 @@ def main(csv_path, audio_directory, starting_index):
     sys.exit(app.exec_())
 
 if __name__ == "__main__":
-    # Replace with your actual paths
+    # Replace with actual paths
     csv_path = sys.argv[1]
     starting_index = int(sys.argv[2])
-    audio_directory = "audio_files"
+    audio_directory = "audio_files" # audio directory path, should be named this way by default
     main(csv_path, audio_directory, starting_index)
