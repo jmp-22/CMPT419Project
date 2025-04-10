@@ -1,0 +1,13 @@
+numpy
+pandas
+huggingface_hub
+datasets
+scipy
+PyQt5
+sounddevice 
+soundfile
+librosa
+matplotlib
+scikit-learn
+seaborn
+
