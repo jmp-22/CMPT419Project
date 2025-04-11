@@ -1,3 +1,2 @@
-audio_files/
-audio_files/*
-
+/env
+/audio_files
