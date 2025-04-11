@@ -1,0 +1,1001 @@
+index,text,audio_path,word_count,potential_question,potential_statement,label
+10500,austrian five two hotel juliett praha,audio_files/audio_10500.wav,6,False,True,imp
+10425,austrian seven two nine thank you,audio_files/audio_10425.wav,6,False,True,nq
+882,roger standby for climb,audio_files/audio_882.wav,4,False,True,nq
+10309,csa three charlie tango runway three one cleared for takeoff wind two one zero degrees five knots,audio_files/audio_10309.wav,17,False,True,nq
+11616,sky travel one zero one zero confirm ready for departure we are ready for departure one zero one zero,audio_files/audio_11616.wav,19,True,False,yn
+10676,initial one zero zero sierra papa sierra thank you,audio_files/audio_10676.wav,9,False,True,nq
+9401,warsaw good morning lufthansa seven seven nine level three eight ze,audio_files/audio_9401.wav,11,False,True,imp
+1895,thank you good bye five nine six,audio_files/audio_1895.wav,7,False,True,nq
+3296,twojet four one six proceed to odnem and contact praha one three four decimal five nine zero good b,audio_files/audio_3296.wav,19,False,True,nq
+3470,lufthansa seven five two request flight level three five zero,audio_files/audio_3470.wav,10,True,False,imp
+4484,csa three foxtrot contact ruzyne ground one two one decimal nine,audio_files/audio_4484.wav,11,False,True,nq
+2061,i just confirm what cleared flight level easy nine charlie lima,audio_files/audio_2061.wav,11,True,False,yn
+11586,and report ready for departure once your re clear after inbound hotel delta lima,audio_files/audio_11586.wav,14,False,True,nq
+8831,chanex one three nine,audio_files/audio_8831.wav,4,False,True,imp
+6193,two one zero,audio_files/audio_6193.wav,3,False,True,nq
+377,nine aero flot one four three,audio_files/audio_377.wav,6,False,True,nq
+7435,locked for lufthansa six kilo victor say again please,audio_files/audio_7435.wav,9,True,False,nq
+3275,one two zero decimal five two five oscar kilo mike echo papa,audio_files/audio_3275.wav,12,False,True,nq
+2479,speed one eighty or less csa four yankee alfa,audio_files/audio_2479.wav,9,False,True,nq
+8477,praha good afternoon easy six seven kilo papa descending one three zero one three request further descend,audio_files/audio_8477.wav,17,True,False,imp
+9746,descending four thousand feet and cleared for ils approach runway three one csa three five delta,audio_files/audio_9746.wav,16,False,True,nq
+4725,heading zero nine zero climbing one nine zero confirm aero flot one,audio_files/audio_4725.wav,12,True,False,nq
+10295,sa six one three when ready descending level three hundred to reach by rapet,audio_files/audio_10295.wav,14,True,False,nq
+8186,siberia eight nine eight squawk one four five one,audio_files/audio_8186.wav,9,False,True,nq
+5748,charlie papa to confirm you proceed to chermignon,audio_files/audio_5748.wav,8,True,False,yn
+6281,right turn heading one nine zero and request speed back,audio_files/audio_6281.wav,10,True,False,imp
+2761,to confirm cleared for takeoff runway three one csa seven seven two affirm clear takeoff three one wind one seven zero degrees five knots,audio_files/audio_2761.wav,24,True,False,yn
+8825,descend flight level one seven zero inbound information oscar on board qnh one zero two one,audio_files/audio_8825.wav,16,False,True,nq
+3277,radar good morning lufthansa eight hotel h climbing flight level two eight zero,audio_files/audio_3277.wav,13,False,True,imp
+2569,climbing flight level two eight zero,audio_files/audio_2569.wav,6,False,True,nq
+9663,qatari six zero two three when ready descend flight level three zero zero reach level by rapet,audio_files/audio_9663.wav,17,True,False,nq
+3642,four five seven confirm lufthansa seven one eight,audio_files/audio_3642.wav,8,True,False,yn
+6714,csa seven eight six runway three one cleared for takeoff wind calm runway three one cleared for takeoff csa seven eight six,audio_files/audio_6714.wav,22,False,True,nq
+6918,lot five two five speed two zero zero two hundred speed lot five two five,audio_files/audio_6918.wav,15,False,True,nq
+10244,and ryan air six seven two nine please confirm climbing three four zero adaro oscar kilo golf,audio_files/audio_10244.wav,17,True,False,yn
+5539,three romeo kilo please say again,audio_files/audio_5539.wav,6,True,False,imp
+11335,lufthansa two five two eight squak one four seven two climb flight level three two zero,audio_files/audio_11335.wav,16,False,True,nq
+2434,sky travel one zero three seven taxi via lima kilo hotel one stand tw,audio_files/audio_2434.wav,14,False,True,nq
+7979,twin star eight eight seven next descend in two minutes,audio_files/audio_7979.wav,10,False,True,nq
+1771,ruzyne good morning this is the sky travel one zero three four with information november request ba,audio_files/audio_1771.wav,17,True,False,nq
+8717,say again please thai nine three three,audio_files/audio_8717.wav,7,True,False,imp
+2619,yes quality eight nine sierra we need to vacate the car from taxiway right of you now so when clear you can,audio_files/audio_2619.wav,22,True,False,nq
+8340,say again,audio_files/audio_8340.wav,2,True,False,imp
+1521,bline seven zero victor taxi left hotel lima holding point r,audio_files/audio_1521.wav,11,False,True,nq
+8061,ok request three six zero for cruise air france two three four seven,audio_files/audio_8061.wav,13,True,False,imp
+7408,one charlie lima negative maintain flight level three three zero india say again maintain flight level three three zero,audio_files/audio_7408.wav,19,True,False,nq
+6586,one seven si,audio_files/audio_6586.wav,3,False,True,nq
+7307,descend flight level seven zero nor shuttle three five eight zero,audio_files/audio_7307.wav,11,False,True,nq
+1762,one two zero nine five zero good day vietnam nine three four,audio_files/audio_1762.wav,12,False,True,nq
+8107,swedestar zero five zulu line up runway three one,audio_files/audio_8107.wav,9,False,True,nq
+6798,klm one three seven four level three hundred,audio_files/audio_6798.wav,8,False,True,imp
+4665,sky travel four three two papa dobre odpoledne praha radar identified climb flight level one six zero,audio_files/audio_4665.wav,17,False,True,nq
+7030,six zero request taxi,audio_files/audio_7030.wav,4,True,False,imp
+10513,ruzyne tower wizz air four,audio_files/audio_10513.wav,5,False,True,nq
+661,aero flot two kilo victor if available the we request level three six zero,audio_files/audio_661.wav,14,True,False,imp
+884,praha tower good morning quality eight nine sierra request clearance to brno,audio_files/audio_884.wav,12,True,False,imp
+10016,csa nine two one runway three one clear to land,audio_files/audio_10016.wav,10,False,True,nq
+310,charlie zulu wind two five which is at one four knots fato two five landing on discretion,audio_files/audio_310.wav,17,True,False,nq
+6074,we would be at about victor in forty seconds and requesting approach information information quebec qnh one zero two zero,audio_files/audio_6074.wav,20,True,False,imp
+1280,lufthansa seven five zero one three three three nine zero good day,audio_files/audio_1280.wav,12,False,True,nq
+7934,best possible request three one or three three three zero roger climb flight level three three zero,audio_files/audio_7934.wav,17,True,False,imp
+1603,leaving now three two zero descend flight level two nine zero finn air eight zero seven mike lufthansa six november whiskey request descend,audio_files/audio_1603.wav,23,True,False,imp
+10362,lufthansa seven one five one thousand five hundred one thousand five hundred feet per minute or more,audio_files/audio_10362.wav,17,False,True,nq
+5726,confirm lufthansa two five two,audio_files/audio_5726.wav,5,True,False,yn
+1243,alitalia four nine one contact wien one three four decimal four four zero good bye,audio_files/audio_1243.wav,15,False,True,nq
+1228,reducing two three zero csa three sierra lima,audio_files/audio_1228.wav,8,False,True,nq
+1019,ive five charlie,audio_files/audio_1019.wav,3,False,True,nq
+6344,six bravo cha,audio_files/audio_6344.wav,3,False,True,nq
+1955,climbing three one zero request,audio_files/audio_1955.wav,5,True,False,imp
+3982,maximum two thousand feet vfr,audio_files/audio_3982.wav,5,False,True,nq
+2875,lining up on runway one three opera jet three zero zero confirm no back track required,audio_files/audio_2875.wav,16,True,False,nq
+9396,britair nine zero four charlie runway one three cleared for takeoff wind three five zero degrees four knots good bye cleared takeoff one three brit,audio_files/audio_9396.wav,25,False,True,nq
+8401,papa one two one nine,audio_files/audio_8401.wav,5,False,True,nq
+7436,lufthansa six four mike continue climb level three four zero,audio_files/audio_7436.wav,10,False,True,nq
+7799,when ready two five zero cross kolad at level lot three,audio_files/audio_7799.wav,11,True,False,nq
+7701,and report requested flight level,audio_files/audio_7701.wav,5,True,False,wh
+5735,sky travel one zero three four proceed direct to rapet,audio_files/audio_5735.wav,10,False,True,nq
+1080,bin air one zero bravo can you say again the frequency,audio_files/audio_1080.wav,11,True,False,wh
+966,csa four echo line up runway three one and wait number two for departure number one atr intersection romeo,audio_files/audio_966.wav,19,False,True,nq
+8265,six zero two three call you when leaving,audio_files/audio_8265.wav,8,True,False,nq
+1197,french navy five five alfa two roger vacate via golf and contact ground one two one nine good bye,audio_files/audio_1197.wav,19,False,True,nq
+1925,sky travel one zero three nine we request further descend,audio_files/audio_1925.wav,10,True,False,imp
+7337,roger so report when ready to descent,audio_files/audio_7337.wav,7,True,False,nq
+1929,sorry say again,audio_files/audio_1929.wav,3,True,False,wh
+8458,sky travel six six one when ready descend flight level two nine zero,audio_files/audio_8458.wav,13,True,False,nq
+8262,i will,audio_files/audio_8262.wav,2,False,True,unknown
+11347,lufthansa seven echo lima contact praha radar one two zero decimal two seven five,audio_files/audio_11347.wav,14,False,True,nq
+5599,lufthansa four mike hotel leaving flight level three two zero descending flight level two five zero,audio_files/audio_5599.wav,16,False,True,nq
+11300,delta india echo mike golf praha radar contact,audio_files/audio_11300.wav,8,False,True,nq
+8713,aero flot one four three now descend four thousand feet qnh one zero one eight and report which speed do you need to reduce,audio_files/audio_8713.wav,24,True,False,wh
+10649,turkish one seven seven zero confirm ready,audio_files/audio_10649.wav,7,True,False,yn
+2426,bye bye,audio_files/audio_2426.wav,2,False,True,nq
+4918,clear to hamburg via venox one bravo departure squawk one four zero four,audio_files/audio_4918.wav,13,False,True,nq
+5985,confirm may we speed up,audio_files/audio_5985.wav,5,True,False,yn
+7882,two nine,audio_files/audio_7882.wav,2,False,True,nq
+10328,lux air eight one mike descend four thousand feet qnh one zero two t,audio_files/audio_10328.wav,14,False,True,nq
+267,hello lufthansa seven eight seven heavy ruzyne tower continue approach,audio_files/audio_267.wav,10,False,True,nq
+2414,lufthansa mike which parking,audio_files/audio_2414.wav,4,True,False,wh
+1814,aero flot two nine nine request flight level three six zero if possible,audio_files/audio_1814.wav,13,True,False,imp
+7406,flight level one six zero no speed li,audio_files/audio_7406.wav,8,False,True,nq
+7018,we re climbing three one zero to point bepas,audio_files/audio_7018.wav,9,False,True,imp
+9813,mike request flight level three,audio_files/audio_9813.wav,5,True,False,imp
+7938,csa seven two seven reduce speed one seven zero knots,audio_files/audio_7938.wav,10,False,True,nq
+6719,praha dynasty eight zero six two request flight level three three zero,audio_files/audio_6719.wav,12,True,False,imp
+3262,austrian three three two papa continue present heading for spacing within present heading austrian three three two p,audio_files/audio_3262.wav,18,False,True,nq
+633,csa nine sev,audio_files/audio_633.wav,3,False,True,nq
+1372,three one clear to land csa five victor pa,audio_files/audio_1372.wav,9,False,True,nq
+5647,turn left and see proceed direct to varik easy eight zero eight uniform,audio_files/audio_5647.wav,13,False,True,nq
+4620,ready confirm descend flight level tw,audio_files/audio_4620.wav,6,True,False,yn
+4141,three three three nine zero,audio_files/audio_4141.wav,5,False,True,nq
+9404,heading to arvek continue present heading vectoring for ils approach runway three one and contact ruzyne radar one one nine decimal zero good bye,audio_files/audio_9404.wav,24,False,True,nq
+10007,tower good day swiss four nine charlie ready one three,audio_files/audio_10007.wav,10,False,True,imp
+5971,csa one eight four praha radar contact climb to flight level three four zero,audio_files/audio_5971.wav,14,False,True,nq
+6472,five four eight two hello radar contact climb to flight level one six zero,audio_files/audio_6472.wav,14,False,True,nq
+2318,praha radar good afternoon reach six eight three level three five zero request descend three one zero,audio_files/audio_2318.wav,17,True,False,imp
+739,oscar kilo charlie alfa papa if able increase speed approaching traffic,audio_files/audio_739.wav,11,False,True,imp
+4968,cleared to land runway three one and please say again the wind,audio_files/audio_4968.wav,12,True,False,wh
+10730,one two four alfa,audio_files/audio_10730.wav,4,False,True,nq
+3748,five one seven five on the squawk etihad zero one eight,audio_files/audio_3748.wav,11,False,True,nq
+7824,lufthansa five five hotel request level three six zero for cruising,audio_files/audio_7824.wav,11,True,False,imp
+1530,hotel bravo charlie golf india taxi to blue station to fuel station approved from blue parking,audio_files/audio_1530.wav,16,False,True,nq
+544,climbing to flight level seven zero oscar kilo tango uniform romeo,audio_files/audio_544.wav,11,False,True,nq
+11211,csa eight nine four runway three one cleared for takeoff wind two one zero degrees four knots,audio_files/audio_11211.wav,17,False,True,nq
+6952,nav checker five one one roger what is next profile,audio_files/audio_6952.wav,10,True,False,wh
+6332,dagobert one five five three to confirm on taxiway echo hold short runway one zero,audio_files/audio_6332.wav,15,True,False,nq
+1399,cleared for takeoff runway one three bline one six one golf bye bye,audio_files/audio_1399.wav,13,False,True,nq
+7415,three four nine two five three eight zero eight bye bye,audio_files/audio_7415.wav,11,False,True,nq
+3454,climbing three four zero inbound agnav,audio_files/audio_3454.wav,6,False,True,imp
+1339,lufthansa four tango papa reduce speed two two zero knots,audio_files/audio_1339.wav,10,False,True,nq
+4378,papa lima one two one nine csa five,audio_files/audio_4378.wav,8,False,True,nq
+5644,finn air five delta lima vacated own discretion wind one four zero degrees five knots runway one four cleared to land,audio_files/audio_5644.wav,21,False,True,nq
+10781,ruzyne tower good evening aero flot one four three ils established runway one three aero flot one four three good evening continue approach,audio_files/audio_10781.wav,23,False,True,imp
+7075,jade cargo seven four four three praha hello radar contact climb to flight level three three zero and confirm requested cruising level,audio_files/audio_7075.wav,22,True,False,wh
+644,praha good day air berlin two three eight sierra level tr,audio_files/audio_644.wav,11,False,True,imp
+1644,break break mosquito one five bravo two five zero degrees one zero knots runway two five cleared to land,audio_files/audio_1644.wav,19,False,True,nq
+1629,praha condor zero four two we request level three five zero,audio_files/audio_1629.wav,11,True,False,imp
+3013,confirm it was lufthansa six kilo yankee,audio_files/audio_3013.wav,7,True,False,yn
+5957,sudanair eight five zero zero confirm established,audio_files/audio_5957.wav,7,True,False,yn
+689,eurostar seven zero papa request level three four zero,audio_files/audio_689.wav,9,True,False,imp
+2003,can you say again,audio_files/audio_2003.wav,4,True,False,wh
+1306,aero flot one four four tower call me when ready call me when call you when ready aero flot one,audio_files/audio_1306.wav,20,True,False,nq
+6497,lot three delta victor praha hello radar contact confirm requested cruising level three seven zero,audio_files/audio_6497.wav,15,True,False,yn
+3312,one zero two one,audio_files/audio_3312.wav,4,False,True,nq
+7447,would you say again please hotel foxtrot hotel,audio_files/audio_7447.wav,8,True,False,wh
+3345,oman air one zero two squawking one four five zero,audio_files/audio_3345.wav,10,False,True,nq
+7353,german wings one four one one three two one five five,audio_files/audio_7353.wav,11,False,True,nq
+1939,radar jobair zero seven two descending flight level,audio_files/audio_1939.wav,8,False,True,imp
+6429,lufthansa seven juliett alfa request level three three zero as final,audio_files/audio_6429.wav,11,True,False,imp
+1824,left three four zero cleared ils three one qality eight,audio_files/audio_1824.wav,10,False,True,nq
+8544,lufthansa two five three four confirm requested cruising level,audio_files/audio_8544.wav,9,True,False,wh
+417,head zero eight zero easy nine charlie lima,audio_files/audio_417.wav,8,False,True,nq
+4228,left or right please confirm aero flot two seven nine,audio_files/audio_4228.wav,10,True,False,wh
+8342,csa five four five to the right heading two zero zero,audio_files/audio_8342.wav,11,False,True,nq
+11642,good evening easy eight three whiskey golf ruzyne tower runway one three cleared to la,audio_files/audio_11642.wav,15,False,True,nq
+2529,praha radar csa nine one seven passing level three six four and descend,audio_files/audio_2529.wav,13,False,True,imp
+3318,praha radar euro trans six zero one one inbound to omelo climbing flight level two nine zero,audio_files/audio_3318.wav,17,False,True,imp
+8275,confirm qnh one zero one nine,audio_files/audio_8275.wav,6,True,False,yn
+10823,descend flight level one hundred csa,audio_files/audio_10823.wav,6,False,True,nq
+1779,tower wizziar five five six stand five two request taxi,audio_files/audio_1779.wav,10,True,False,imp
+11110,singapoore two six praha good morning radar contact descend flight level three zero zero reach level by rapet,audio_files/audio_11110.wav,18,False,True,nq
+4938,via runway two two lining up and wait runway three one swiss four seven three charlie,audio_files/audio_4938.wav,16,False,True,nq
+5916,set heading zero five zero for radar vectoring,audio_files/audio_5916.wav,8,False,True,nq
+7868,yeah we had hoped for three six zero but it s occupied so we take we maintain three fo,audio_files/audio_7868.wav,19,False,True,nq
+7813,up runway one three csa seven two,audio_files/audio_7813.wav,7,False,True,nq
+11041,two nine zero air malta five three eight,audio_files/audio_11041.wav,8,False,True,nq
+7411,direct to oscar kilo golf and climb three four zero ryan air two xray fo,audio_files/audio_7411.wav,15,False,True,nq
+7998,afternoon wizz air four november mike praha radar contact climb flight level three four zero and confirm three four zero final level,audio_files/audio_7998.wav,22,True,False,nq
+11730,csa eight zero three descend flight level one eight zero,audio_files/audio_11730.wav,10,False,True,nq
+8365,descend flight level two nine zero csa three sierra lima may we descend when ready,audio_files/audio_8365.wav,15,True,False,yn
+8307,and austrian seven one requesting flight level three four zero please roger,audio_files/audio_8307.wav,12,True,False,imp
+10028,i m sorry say again lufthansa four papa juliett any chance inbound akudi alfa kilo uniform delta india,audio_files/audio_10028.wav,18,True,False,wh
+11781,lufthansa nine kilo yankee righ,audio_files/audio_11781.wav,5,False,True,nq
+2893,request descend easy,audio_files/audio_2893.wav,3,True,False,imp
+6971,ready for gust,audio_files/audio_6971.wav,3,False,True,imp
+1236,flight level one four zero inbound,audio_files/audio_1236.wav,6,False,True,nq
+10120,lufthansa two uniform xray confirm established,audio_files/audio_10120.wav,6,True,False,yn
+6664,minimum clean one three zero and holding over which point,audio_files/audio_6664.wav,10,True,False,nq
+6900,klm one three seven four request,audio_files/audio_6900.wav,6,True,False,imp
+515,csa two mike zulu contact radar one two zero decimal two seven five,audio_files/audio_515.wav,13,False,True,nq
+5560,swiss four nine eight yankee continue descend flight level seven zero seven zero,audio_files/audio_5560.wav,13,False,True,nq
+4313,aero flot one four three maintain flight level one hundred speed two nine zero roger maintain next descend in about one and half minutes,audio_files/audio_4313.wav,24,False,True,nq
+3856,hate to call the most so standby second,audio_files/audio_3856.wav,8,False,True,nq
+10522,lot three six two praha radar contact climb flight level three one zero and confirm requested cruising level,audio_files/audio_10522.wav,18,True,False,wh
+1003,wilco austrian seven o,audio_files/audio_1003.wav,4,False,True,nq
+3712,praha radar gulf air zero zero six flight level three nine zero gulf air zero zero six praha hello radar contact,audio_files/audio_3712.wav,21,False,True,imp
+3500,climbing three four zero requesting four hundred air berlin three four six one three roger,audio_files/audio_3500.wav,15,True,False,imp
+9896,just confirm we the flight plan now,audio_files/audio_9896.wav,7,True,False,yn
+10136,prague control from bline two lima kilo what s your,audio_files/audio_10136.wav,10,True,False,wh
+8793,praha good morning november romeo oscar nine six nine one waiting for three four zero,audio_files/audio_8793.wav,15,False,True,imp
+548,lufthansa seven one eight hello radar contact,audio_files/audio_548.wav,7,False,True,nq
+3897,ruzyne tower csa nine two two on lima ready for departure,audio_files/audio_3897.wav,11,False,True,imp
+2266,one two one nine lufthansa five mike echo bye bye,audio_files/audio_2266.wav,10,False,True,nq
+3216,air france two four eight two runway one three cleared to land wind zero six zero seven knots,audio_files/audio_3216.wav,18,False,True,nq
+5570,singapoor two five request,audio_files/audio_5570.wav,4,True,False,imp
+5821,affirm request flight level three seven zero final csa four two zero,audio_files/audio_5821.wav,12,True,False,imp
+11511,air berlin eight seven victor request,audio_files/audio_11511.wav,6,True,False,imp
+8848,sky travel one two zero zero what s your requested final level,audio_files/audio_8848.wav,12,True,False,imp
+5696,roger expect vectors for short approach and what s about visual approach,audio_files/audio_5696.wav,12,True,False,wh
+6825,heading zero six zero no speed restriction zero hotel,audio_files/audio_6825.wav,9,False,True,nq
+2082,confirm one six zero csa seven two six,audio_files/audio_2082.wav,8,True,False,yn
+880,aero flot one two one please confirm we are cleared to descend flight level two nine zero,audio_files/audio_880.wav,17,True,False,yn
+7452,praha controle one three four five nine zero cathay zero six eight,audio_files/audio_7452.wav,12,False,True,nq
+11514,hello reporting delta papa ready,audio_files/audio_11514.wav,5,False,True,unknown
+8057,lufthansa seven eight two contact warsaw one three four decimal nine two five,audio_files/audio_8057.wav,13,False,True,nq
+6608,euro trans,audio_files/audio_6608.wav,2,False,True,nq
+6612,descending flight level one three zero,audio_files/audio_6612.wav,6,False,True,nq
+4585,via delta line up zero four call you when ready november four nine xray lima,audio_files/audio_4585.wav,15,True,False,nq
+8109,praha good morning lufthansa seven seven three passing three six six descending three five zero,audio_files/audio_8109.wav,15,False,True,imp
+1986,three thousand,audio_files/audio_1986.wav,2,False,True,nq
+7736,ok six zero five five direct thank you,audio_files/audio_7736.wav,8,False,True,nq
+1846,prague aero flot one two four is possible request climb flight level three five zero,audio_files/audio_1846.wav,15,True,False,imp
+3802,lufthansa two alfa charlie when ready descend flight level three zero zero to reach by rapet,audio_files/audio_3802.wav,16,True,False,nq
+5344,oscar kilo lima ifr flight plan cancelled time two seven,audio_files/audio_5344.wav,10,False,True,nq
+9654,yeah cross rape,audio_files/audio_9654.wav,3,False,True,nq
+10140,kilo yankee one three two one five five bye bye,audio_files/audio_10140.wav,10,False,True,nq
+8832,copy and when possible request climb flight level three five zero catha,audio_files/audio_8832.wav,12,True,False,imp
+11009,hello wizz air five five seven ruzyne tower continue approach number two,audio_files/audio_11009.wav,12,False,True,nq
+6610,sky travel one one nine two request ta,audio_files/audio_6610.wav,8,True,False,imp
+11020,aerosvit two zero nine no speed limit,audio_files/audio_11020.wav,7,False,True,nq
+3586,air berlin three six zero five descend flight level two nine zero rate one thousand five hundred feet per minute or greater,audio_files/audio_3586.wav,22,False,True,nq
+8217,sky travel one zero six one confirm,audio_files/audio_8217.wav,7,True,False,yn
+2377,eight zero eight uniform baltu two hotel departure climbing five thousand passing three thousand four hundred,audio_files/audio_2377.wav,16,False,True,imp
+10752,climb flight level three three zero climb flight level t,audio_files/audio_10752.wav,10,False,True,nq
+1483,calibra four zero turn left heading three four zero cleared ils approach runway three one report when established left three four zero cleared,audio_files/audio_1483.wav,23,True,False,nq
+11558,clear to land on,audio_files/audio_11558.wav,4,False,True,nq
+109,we will taxi to sector blue when ready hotel charlie november,audio_files/audio_109.wav,11,True,False,nq
+3647,one one nine decimal zero c,audio_files/audio_3647.wav,6,False,True,nq
+9806,if necessary what is your prefered odd level,audio_files/audio_9806.wav,8,True,False,wh
+3739,austrian seven zero three descend to flight level eight zero descending flight level eight zero austrian seven zero three,audio_files/audio_3739.wav,19,False,True,nq
+8325,two eight zero degrees one one knots maximum one eight minimum six knots,audio_files/audio_8325.wav,13,False,True,nq
+9522,say again for two six nine six,audio_files/audio_9522.wav,7,True,False,wh
+2079,grossjet seven whiskey speed two fifty or less descend flight level one one zero,audio_files/audio_2079.wav,14,False,True,nq
+4821,line up three one austrian,audio_files/audio_4821.wav,5,False,True,nq
+6919,aero flot one two tw,audio_files/audio_6919.wav,5,False,True,nq
+957,aero flot one five zero please confirm we are cleared to line up via romeo,audio_files/audio_957.wav,15,True,False,yn
+911,praha lot three two nine request,audio_files/audio_911.wav,6,True,False,imp
+6225,and requesting flight level three six zero wizz air four papa romeo roger thank you,audio_files/audio_6225.wav,15,True,False,imp
+1866,v tango charlie alfa papa line up runway three one,audio_files/audio_1866.wav,10,False,True,nq
+5230,confirm two zero mike sierra four,audio_files/audio_5230.wav,6,True,False,yn
+8882,csa nine two two report requested flight level,audio_files/audio_8882.wav,8,True,False,imp
+157,roger when vacated runway con,audio_files/audio_157.wav,5,True,False,nq
+5629,csa eight zero three when ready descend flight level two nine zero leaving now,audio_files/audio_5629.wav,14,True,False,nq
+251,climbing flight level one six zero csa nine two delta,audio_files/audio_251.wav,10,False,True,nq
+5434,csa one nine six two line up runway three one,audio_files/audio_5434.wav,10,False,True,nq
+8249,rect report when ready for ta,audio_files/audio_8249.wav,6,True,False,nq
+2884,praha radar qatari six zero five five request go ahead fl three four zero for qatari six zero five five,audio_files/audio_2884.wav,20,True,False,imp
+3300,nor shuttle one five one four turn right heading two one zero,audio_files/audio_3300.wav,12,False,True,nq
+2070,say again please you should expect level two one zero by lagar,audio_files/audio_2070.wav,12,True,False,wh
+2288,continue climb three two zero requesting three six zero ryan air two xray fox,audio_files/audio_2288.wav,14,True,False,imp
+7649,csa eight zero five when ready descend flight level two nine zero,audio_files/audio_7649.wav,12,True,False,nq
+2215,nine four request direct,audio_files/audio_2215.wav,4,True,False,imp
+2616,channex eight seven papa romeo runway one three clear to land wind zero two zero degrees five knots,audio_files/audio_2616.wav,18,False,True,nq
+51,three four two six joining right hand downwind runway two five grass,audio_files/audio_51.wav,12,False,True,nq
+429,seven nine hotel praha yeah seven nine hotel we got a radio no reply on one two seven four two five,audio_files/audio_429.wav,21,False,True,imp
+11165,two five lufthansa two five two eight one three four seven eight five confirm,audio_files/audio_11165.wav,14,True,False,yn
+8588,csa eight nine delta sierra when ready descend to flight level one one zero,audio_files/audio_8588.wav,14,True,False,nq
+9243,one three four five nine zero germania eight nine seven zero by,audio_files/audio_9243.wav,12,False,True,nq
+7844,right heading two eight zero cleared ils approach runway three one report localizer established,audio_files/audio_7844.wav,14,False,True,nq
+9286,on the localizer eight eight echo november,audio_files/audio_9286.wav,7,False,True,imp
+205,csa four two zero what level you expect overhead,audio_files/audio_205.wav,9,True,False,wh
+7528,romeo golf expect three nine miles to touchdown,audio_files/audio_7528.wav,8,False,True,nq
+7016,arvek wi,audio_files/audio_7016.wav,2,False,True,unknown
+2653,vitavia five seven two direct to polom when ready descend to flight level one three zero,audio_files/audio_2653.wav,16,True,False,nq
+7144,report requested flight level,audio_files/audio_7144.wav,4,True,False,wh
+9925,easy two four seven foxtrot report requested flight level,audio_files/audio_9925.wav,9,True,False,wh
+513,euro wings seven alfa bravo turn right heading two one zero cleared ils approach runway two four report established,audio_files/audio_513.wav,19,False,True,nq
+5473,csa one nine six three,audio_files/audio_5473.wav,5,False,True,unknown
+10579,croatia nine five foxtrot requesting flight level three six zero,audio_files/audio_10579.wav,10,True,False,imp
+8427,delta charlie bravo alfa yankee contact wien one three one decimal three five zero good bye,audio_files/audio_8427.wav,16,False,True,nq
+10622,say again,audio_files/audio_10622.wav,2,True,False,wh
+8071,praha ryan air six one kilo xray lima xray descending three five zero,audio_files/audio_8071.wav,13,False,True,nq
+3010,charlie zulu direction montana confirm,audio_files/audio_3010.wav,5,True,False,yn
+4693,e two seven eigh,audio_files/audio_4693.wav,4,False,True,unknown
+6629,nd one four bravo kilo qnh one zero two two request,audio_files/audio_6629.wav,11,True,False,imp
+6992,asiana seven seven six go ahead,audio_files/audio_6992.wav,6,False,True,nq
+306,speed bird eight six zero turn left heading three three zero cleared ils three one report when established,audio_files/audio_306.wav,18,True,False,nq
+5421,sorry station calling say again,audio_files/audio_5421.wav,5,True,False,wh
+4592,three five good bye,audio_files/audio_4592.wav,4,False,True,nq
+2169,information november and is our victor lima rr mike one romeo for three one confirm affirmative,audio_files/audio_2169.wav,16,True,False,yn
+5526,csa nine seven four ruzyne tower roger line up runway one three,audio_files/audio_5526.wav,12,False,True,nq
+6070,on baltu,audio_files/audio_6070.wav,2,False,True,nq
+8998,praha radar hello klm one eight four six is climbing flight level two eight zero passing two five zero,audio_files/audio_8998.wav,19,False,True,imp
+6364,alright say again altitude,audio_files/audio_6364.wav,4,True,False,wh
+7705,and level is two eight zero confirm,audio_files/audio_7705.wav,7,True,False,yn
+5761,gosek say again please,audio_files/audio_5761.wav,4,True,False,wh
+10083,one six right cleared to land jet ex seven four three four,audio_files/audio_10083.wav,12,False,True,nq
+9989,when ready descend flight level one five zero contract two romeo golf,audio_files/audio_9989.wav,12,True,False,nq
+3628,praha good afternoon lufthansa seven one five heavy at level three four zero,audio_files/audio_3628.wav,13,False,True,imp
+6189,hotel oscar yankee request orbit to the right for spacing,audio_files/audio_6189.wav,10,True,False,imp
+3435,one two seven decimal one two five csa eight zero five,audio_files/audio_3435.wav,11,False,True,nq
+10610,wizz air four yankee victor climb flight level three six zero,audio_files/audio_10610.wav,11,False,True,nq
+5842,eight hotel charlie established ils one three,audio_files/audio_5842.wav,7,False,True,nq
+10609,csa six eight nine contact ruzyne radar one one nine zero,audio_files/audio_10609.wav,11,False,True,nq
+6544,one eight line up run,audio_files/audio_6544.wav,5,False,True,nq
+10116,lufthansa five mike echo sorry say again,audio_files/audio_10116.wav,7,True,False,wh
+3179,cend expect netir at flight level two three zero,audio_files/audio_3179.wav,9,False,True,nq
+11639,lufthansa nine kilo yankee descend flight level one zero zero,audio_files/audio_11639.wav,10,False,True,nq
+1203,lufthansa eight hotel h climb flight level three hundred,audio_files/audio_1203.wav,9,False,True,nq
+262,speed one eight zero knots and request de,audio_files/audio_262.wav,8,True,False,imp
+4182,majesty one three one hello radar contact climb flight level three four zero and confirm requested cruising level,audio_files/audio_4182.wav,18,True,False,nq
+186,austrian one two eight xray contact vienna one three one decimal three five zero,audio_files/audio_186.wav,14,False,True,nq
+1971,swiss one two four alfa contact ground one two one nine bye bye bye swiss one two four alfa,audio_files/audio_1971.wav,19,False,True,nq
+9846,lufthansa six three uniform contact vienna one three one decimal three five five,audio_files/audio_9846.wav,13,False,True,nq
+11247,lufthansa six kilo yankee climb flight level three two zero,audio_files/audio_11247.wav,10,False,True,nq
+340,thank you man,audio_files/audio_340.wav,3,False,True,nq
+1381,csa eight eight one do you have any time for us,audio_files/audio_1381.wav,11,False,True,yn
+8921,praha tarom three zero two request final level three three zero,audio_files/audio_8921.wav,11,True,False,imp
+2532,two six nine six sierra,audio_files/audio_2532.wav,5,False,True,nq
+10156,hotel charlie papa below flight level one hundred,audio_files/audio_10156.wav,8,False,True,unknown
+666,lufthansa eight lima l line up runway three one be ready for immediate departure,audio_files/audio_666.wav,14,False,True,nq
+3347,csa eight two zero three radar radar contact descend flight level one eight zero,audio_files/audio_3347.wav,14,False,True,nq
+552,two five zero,audio_files/audio_552.wav,3,False,True,nq
+7704,bee line nine hotel kilo contact vienna one three one decimal three five zero good bye one three one decimal three five zero bee line nine h,audio_files/audio_7704.wav,27,False,True,nq
+8497,speed jobair zero eight,audio_files/audio_8497.wav,4,False,True,nq
+2268,ect to oscar kilo golf thanks swiss four nine nine charlie,audio_files/audio_2268.wav,11,False,True,nq
+4010,one three two decimal three five five csa four two zero,audio_files/audio_4010.wav,11,False,True,nq
+6202,air berlin three one two charlie praha hello radar contact climb to flight level three four zero and confirm requested cruising level,audio_files/audio_6202.wav,22,True,False,yn
+9834,confirm established yes fully,audio_files/audio_9834.wav,4,True,False,yn
+2175,quality eight nine sierra line up runway three one cleared for takeoff wind one two zero degrees three knots by,audio_files/audio_2175.wav,20,False,True,nq
+5782,one two confirm,audio_files/audio_5782.wav,3,True,False,yn
+2086,lufthansa seven seven three confirm hospital flight,audio_files/audio_2086.wav,7,True,False,yn
+4081,five three nine confirm six thousand feet or level si,audio_files/audio_4081.wav,10,True,False,yn
+8113,lufthansa two five two six climb flight level three four zero lufthansa two five two six climb level three four zero request level three five zero final,audio_files/audio_8113.wav,27,True,False,imp
+3317,one three five four six zero shamrock six six one bye,audio_files/audio_3317.wav,11,False,True,nq
+10139,b romeo yankee,audio_files/audio_10139.wav,3,False,True,unknown
+10235,zero cleared ils one three air malta five si,audio_files/audio_10235.wav,9,False,True,nq
+9350,german wings eight november xray continue climb level three four zero and requesting level three six zero for crui,audio_files/audio_9350.wav,19,True,False,imp
+11454,lufthansa seven two three thank you much direct to kolad,audio_files/audio_11454.wav,10,False,True,nq
+4245,blocked austrian three three two papa descend to flight level two nine zero descend level two nine zero austrian three three two papa,audio_files/audio_4245.wav,23,False,True,nq
+3364,please confirm neagative normal rate and descend flight level one zero zero speed two nine zero or greater,audio_files/audio_3364.wav,18,True,False,yn
+8615,sun express three eight zero zero contact praha one three five point one three five good bye,audio_files/audio_8615.wav,17,False,True,nq
+8311,lufthansa seven seven nine when ready descend to flight level three zero zero reach level by rape,audio_files/audio_8311.wav,17,True,False,nq
+3600,twenty and descend five thousand one zero two one cs,audio_files/audio_3600.wav,10,False,True,nq
+4448,csa seven five one descend four thousand feet q,audio_files/audio_4448.wav,9,False,True,nq
+2,direct padka request three five zero,audio_files/audio_2.wav,6,True,False,nq
+8385,air berlin eight seven victor praha how do you read,audio_files/audio_8385.wav,10,True,False,wh
+2854,praha good afternoon lufthansa eight mike m climbing level two eight zero inbound tom,audio_files/audio_2854.wav,14,False,True,imp
+11570,we etihad zero one eight thank you,audio_files/audio_11570.wav,7,False,True,nq
+3383,lufthansa two alfa foxtrot resume own navigation direct lagar,audio_files/audio_3383.wav,9,False,True,nq
+5273,xray left heading zer,audio_files/audio_5273.wav,4,False,True,nq
+4828,easy six one three golf conta,audio_files/audio_4828.wav,6,False,True,nq
+11400,six climbing three one zero lufthansa seven eight two good evening radar contact confirm requested level,audio_files/audio_11400.wav,16,True,False,imp
+4674,lufthansa two four mike praha hello radar contact climb to flight level three four zero and confirm requested cruising level,audio_files/audio_4674.wav,20,True,False,wh
+3133,klm one three five one confirm established,audio_files/audio_3133.wav,7,True,False,yn
+11107,confirm six romeo victor affirm,audio_files/audio_11107.wav,5,True,False,yn
+1988,praha reach six four six flight level two nine zero,audio_files/audio_1988.wav,10,False,True,imp
+9451,hold short to runway two four air france one nine eight romeo,audio_files/audio_9451.wav,12,False,True,nq
+5333,no i didn t,audio_files/audio_5333.wav,4,False,True,nq
+2486,requested flight level three eight zero,audio_files/audio_2486.wav,6,True,False,imp
+7342,praha scandinavian two six six two we re level two five zero climbing two eight zero agnav,audio_files/audio_7342.wav,17,False,True,imp
+4889,air berlin five three eight lima confirm requested cruising level requested level three eight zero,audio_files/audio_4889.wav,15,True,False,wh
+7336,to bepas climbing level three hundred request three five zero,audio_files/audio_7336.wav,10,True,False,imp
+1960,csa nine correction nine two one contact tower one one eight one,audio_files/audio_1960.wav,12,False,True,nq
+1945,sorry i didn t understand say again plese,audio_files/audio_1945.wav,8,True,False,wh
+7721,two one and request ifr and climbing if available,audio_files/audio_7721.wav,9,True,False,imp
+3328,lot three seven mike you are unreadable just confirm by squak changing one two one zero seven five,audio_files/audio_3328.wav,18,True,False,yn
+8065,lufthansa one four nine two praha good evening radar contact report requested flight level,audio_files/audio_8065.wav,14,True,False,wh
+8769,no speed thank you five four one four,audio_files/audio_8769.wav,8,False,True,nq
+8648,maintaining flight level one zero zero and confirm runway three one,audio_files/audio_8648.wav,11,True,False,yn
+3817,three three request go ahead,audio_files/audio_3817.wav,5,True,False,imp
+1129,nor shuttle one nine seven seven praha radar contact,audio_files/audio_1129.wav,9,False,True,nq
+1591,csa eight five seven speed two four zero or less,audio_files/audio_1591.wav,10,False,True,nq
+3442,praha tower good evening seven romeo golf on delta fully ready when reach,audio_files/audio_3442.wav,13,True,False,imp
+7265,information is oscar expect vectoring ils three one,audio_files/audio_7265.wav,8,False,True,nq
+4568,i m sorry any chance for what,audio_files/audio_4568.wav,7,True,False,wh
+871,aero flot one four three confirm descend four thousand fee,audio_files/audio_871.wav,10,True,False,yn
+2510,air berlin two nine eight victor contact rhein one three three decimal two eight five good bye,audio_files/audio_2510.wav,17,False,True,nq
+5295,good afternoon air berlin one one five quebec praha radar contact climb flight level three four zero confirm three eight zero requested,audio_files/audio_5295.wav,22,True,False,yn
+10826,lufthansa seven one four please say again the frequency,audio_files/audio_10826.wav,9,True,False,wh
+746,csa nine two delta radar departure terminated direct lima delta zulu,audio_files/audio_746.wav,11,False,True,nq
+4662,confirm three three decimal eight six zero six zero four three seven four bye bye,audio_files/audio_4662.wav,15,True,False,yn
+10645,praha good day,audio_files/audio_10645.wav,3,False,True,nq
+3656,emirates four request three nine zero,audio_files/audio_3656.wav,6,True,False,imp
+4718,confirm flight level one one five zero,audio_files/audio_4718.wav,7,True,False,yn
+255,qality nine one romeo request taxi,audio_files/audio_255.wav,6,True,False,imp
+8789,scending flight level one zero zero,audio_files/audio_8789.wav,6,False,True,nq
+3534,emirates nine nine eight seven hello radar contact proceed to varik,audio_files/audio_3534.wav,11,False,True,nq
+2004,approved when ready,audio_files/audio_2004.wav,3,True,False,nq
+10650,praha good evening trans avia seven five zero level three eight zero approaching ditis,audio_files/audio_10650.wav,14,False,True,imp
+2742,csa four delta romeo ruzyne tower hold short of runway one three,audio_files/audio_2742.wav,12,False,True,nq
+6342,lufthansa two five two zero request level three seven zero roger standby,audio_files/audio_6342.wav,12,True,False,imp
+3922,aerosvit two zero nine when ready descend flight level two nine zero descend flight level two nine zero aerosvit two zero nine,audio_files/audio_3922.wav,22,True,False,nq
+4729,csa four delta romeo taxi via runway two four and hold short of runway one three,audio_files/audio_4729.wav,16,False,True,nq
+6236,say again for iberia three eight zero eight,audio_files/audio_6236.wav,8,True,False,wh
+6066,lufthansa seven one five please confirm to romeo alfa kilo affirm thank you,audio_files/audio_6066.wav,13,True,False,yn
+2974,sierra papa sierra praha radar roger report through flight level nine five,audio_files/audio_2974.wav,12,False,True,nq
+9393,our stand information lima one zero zero seven ready for startup clearance destination kosice,audio_files/audio_9393.wav,14,False,True,imp
+3355,station calling say again,audio_files/audio_3355.wav,4,True,False,wh
+6230,ree zero luf,audio_files/audio_6230.wav,3,False,True,nq
+6339,praha this csa nine zero uniform reaching three thousand feet,audio_files/audio_6339.wav,10,False,True,imp
+5000,after hermsdorf to confirm artup abrax,audio_files/audio_5000.wav,6,True,False,yn
+1147,papa foxtrot approaching bern city request to make an orbid over the bundeshaus,audio_files/audio_1147.wav,13,True,False,imp
+10828,approach csa one delta zulu is with you,audio_files/audio_10828.wav,8,False,True,imp
+2876,euro trans six eight zero two sorry say again waypoint kolad kolad euro trans six eight zero two,audio_files/audio_2876.wav,18,True,False,wh
+11030,six charlie kilo,audio_files/audio_11030.wav,3,False,True,nq
+1630,vel three one zero request flight level three three zero,audio_files/audio_1630.wav,10,True,False,imp
+11422,climbing level three four zero and requesting level three six zero as final today please,audio_files/audio_11422.wav,15,True,False,imp
+2279,lufthansa eight lima l runway three one cleared for takeoff thank you bye bye,audio_files/audio_2279.wav,14,False,True,nq
+980,lufthansa one romeo mike right heading two seven zer,audio_files/audio_980.wav,9,False,True,nq
+2650,adria four zero vacate via golf and contact ruzyne ground one two one decimal nine golf and one two one deci,audio_files/audio_2650.wav,21,False,True,nq
+687,five eight say again climb flight level three three zero,audio_files/audio_687.wav,10,True,False,wh
+9199,three five decim,audio_files/audio_9199.wav,3,False,True,nq
+9967,seven zero two good bye,audio_files/audio_9967.wav,5,False,True,nq
+6683,austrian seven one two zulu runway one three cleared for takeoff wind one six zero degrees three knots bye bye,audio_files/audio_6683.wav,20,False,True,nq
+9868,wizz air four nine one line up runway three one,audio_files/audio_9868.wav,10,False,True,nq
+3968,lufthansa two hotel tango contact ru ruzyne tower one one eight decimal one good bye,audio_files/audio_3968.wav,15,False,True,nq
+11593,jobair zero five one papa praha radar contact climb to flight level two two zero,audio_files/audio_11593.wav,15,False,True,nq
+9086,in that case request descending level three two zero lot three nine seven,audio_files/audio_9086.wav,13,True,False,imp
+1584,stand one four bravo request,audio_files/audio_1584.wav,5,True,False,imp
+1951,lufthansa eight romeo yankee cotact pra,audio_files/audio_1951.wav,6,False,True,nq
+9349,praha hello lufthansa eight november echo ready up on,audio_files/audio_9349.wav,9,False,True,unknown
+6470,direct evemi el al five two one,audio_files/audio_6470.wav,7,False,True,nq
+7894,ruzyne tower csa nine two delta continue taxi hodling position eighty one,audio_files/audio_7894.wav,12,False,True,nq
+7059,switch over to munchen confirm lufthansa seven seven three sorry i forget the swtiching toy bye bye,audio_files/audio_7059.wav,17,True,False,yn
+7166,one four zero on the heading and cleared ils one three cimber three five two seven,audio_files/audio_7166.wav,16,False,True,nq
+10188,lufthasna five mike echo descend four thousand feet qnh one zero two three,audio_files/audio_10188.wav,13,False,True,nq
+614,csa six nine one praha radar radar contact descend flight level one three zero,audio_files/audio_614.wav,14,False,True,nq
+3428,five degrees to the left csa seven kilo golf,audio_files/audio_3428.wav,9,False,True,nq
+10753,descend down to flight level two five zero to by level by hotel delta oscar euro trans five one three,audio_files/audio_10753.wav,20,False,True,nq
+9698,six one eight,audio_files/audio_9698.wav,3,False,True,nq
+587,request three seven zero,audio_files/audio_587.wav,4,True,False,imp
+11282,zero zero two one,audio_files/audio_11282.wav,4,False,True,nq
+8252,csa seven seven three runway three one cleared to land wind one four zero degrees four knots,audio_files/audio_8252.wav,17,False,True,nq
+288,proceed direct romeo alfa ke,audio_files/audio_288.wav,5,False,True,nq
+2455,csa five seven three ruzyne tower continue approach,audio_files/audio_2455.wav,8,False,True,nq
+10167,confirm mikov,audio_files/audio_10167.wav,2,True,False,yn
+2280,confirm would it be,audio_files/audio_2280.wav,4,True,False,yn
+1783,four zero final level requested today is three,audio_files/audio_1783.wav,8,True,False,imp
+9935,csa three seven bravo speed two one zero kno,audio_files/audio_9935.wav,9,False,True,nq
+7212,request flight level three eight zero for the cruise,audio_files/audio_7212.wav,9,True,False,imp
+7630,confirm three nine miles for eight juliett golf,audio_files/audio_7630.wav,8,True,False,yn
+10023,tango three one three col du sallest at eight thousand feet requested change,audio_files/audio_10023.wav,13,True,False,imp
+9876,csa eight zero four praha request,audio_files/audio_9876.wav,6,True,False,imp
+10480,radar hello germania seven six four five inbound approaching three five zero ready to descend,audio_files/audio_10480.wav,15,False,True,imp
+7414,csa three zero three request descend,audio_files/audio_7414.wav,6,True,False,imp
+350,lufthansa four mike hotel when ready descend flight level two five zero level by kolad,audio_files/audio_350.wav,15,True,False,nq
+4910,lufthansa two five three zero praha good evening radar contact report requested flight level,audio_files/audio_4910.wav,14,True,False,wh
+10183,sorry who s calling,audio_files/audio_10183.wav,4,True,False,wh
+2666,hello swiss four eight,audio_files/audio_2666.wav,4,False,True,nq
+3263,one three one zero five five bye bye euro trans,audio_files/audio_3263.wav,10,False,True,nq
+6132,praha sierra victor alfa request flight level one three zero due to,audio_files/audio_6132.wav,12,True,False,imp
+4625,direct voz csa,audio_files/audio_4625.wav,3,False,True,nq
+5014,pepik reach one two zero,audio_files/audio_5014.wav,5,False,True,nq
+7445,ukraine international seven zero two climb flight level three four zero,audio_files/audio_7445.wav,11,False,True,nq
+11445,yangzte river seven four six zero roger line up runway three one cleared for takeoff wind calm good bye,audio_files/audio_11445.wav,19,False,True,nq
+2805,csa seven three two runway three one clear to land wind one seven zero degrees two knots,audio_files/audio_2805.wav,17,False,True,nq
+1938,direct lagar lufthansa two alfa fox,audio_files/audio_1938.wav,6,False,True,nq
+4732,requeste level three eight zero roger standby,audio_files/audio_4732.wav,7,True,False,imp
+2538,lufthansa eight kilo alfa ruzyne tower roger,audio_files/audio_2538.wav,7,False,True,nq
+1509,descend flight level two nine zero and one three five one three five mike,audio_files/audio_1509.wav,14,False,True,nq
+8300,sky travel one one zero two tax,audio_files/audio_8300.wav,7,False,True,nq
+4126,five eight five zero zero good day yes one two zero decimal two seven,audio_files/audio_4126.wav,14,False,True,nq
+11095,praha radar good day wizz air four yankee victor flight level two eight zero over astel request flight level three six zero for,audio_files/audio_11095.wav,23,True,False,imp
+4524,how about one sixty sir one sixty,audio_files/audio_4524.wav,7,True,False,wh
+6576,and one four three please confirm four thousand feet,audio_files/audio_6576.wav,9,True,False,yn
+6512,csa nine two one reduce two three zero knots,audio_files/audio_6512.wav,9,False,True,nq
+368,austrian seven zero six papa line up runway three one,audio_files/audio_368.wav,10,False,True,nq
+6769,speed bird one one good evening radar contact,audio_files/audio_6769.wav,8,False,True,nq
+10443,hotel hotel oscar roger say again the number of the glider,audio_files/audio_10443.wav,11,True,False,wh
+11636,time to quality nine one romeo request push back,audio_files/audio_11636.wav,9,True,False,imp
+2034,tower bline four zero victor approaching delta when ready,audio_files/audio_2034.wav,9,True,False,nq
+2973,eight nine sierra request descend to,audio_files/audio_2973.wav,6,True,False,imp
+7470,csa eight tango praha radar radar contact descend flight level one three zero,audio_files/audio_7470.wav,13,False,True,nq
+11714,oscar kilo hotel kilo sierra tower continue approach runway three,audio_files/audio_11714.wav,10,False,True,nq
+10982,easy four six nine one hello praha radar contact confirm requested cruising level,audio_files/audio_10982.wav,13,True,False,wh
+2783,hotel golf papa is calling confirm,audio_files/audio_2783.wav,6,True,False,yn
+2978,confirm need to backtrack yes wah we need to backtrack runway one three air france one nine eight r,audio_files/audio_2978.wav,19,True,False,yn
+11776,csa seven six five turn left heading three four zero cleared ils approach runway three one report when established,audio_files/audio_11776.wav,19,True,False,nq
+10709,level three three zero malaysian two one,audio_files/audio_10709.wav,7,False,True,nq
+3100,morning mike echo mike india eleven and half miles fin,audio_files/audio_3100.wav,10,False,True,imp
+11567,lufthansa seven five eight request flight level three five zero,audio_files/audio_11567.wav,10,True,False,imp
+2549,csa six zero five zero and zero request full lengt due performance,audio_files/audio_2549.wav,12,True,False,imp
+1694,wizz air,audio_files/audio_1694.wav,2,False,True,nq
+2449,radar qatari zero eight four request climb flight level three five zero,audio_files/audio_2449.wav,12,True,False,imp
+8942,say again can you three by five heli hotel yankee,audio_files/audio_8942.wav,10,True,False,wh
+9489,direct to bolbo germania one three one five affirm,audio_files/audio_9489.wav,9,False,True,nq
+10576,lufthansa nine lima charlie climb flight level one four zero climb level one four zero lufthansa nine lima charlie,audio_files/audio_10576.wav,19,False,True,nq
+10829,lufthansa four juliett alfa contact munich one three two point five five zero good bye,audio_files/audio_10829.wav,15,False,True,nq
+10260,one three one zero five five connie two four six,audio_files/audio_10260.wav,10,False,True,nq
+2200,four thousand feet the qnh,audio_files/audio_2200.wav,5,False,True,nq
+11858,affirm any higher up level three eight zero please austrian five five alfa delta roger standby,audio_files/audio_11858.wav,16,False,True,nq
+2562,praha radar lufthansa cargo eight four five two request,audio_files/audio_2562.wav,9,True,False,imp
+324,direct rapet point confirm please airbridge cargo three eight nine,audio_files/audio_324.wav,10,True,False,yn
+11124,and germania six zero zero two final requested level three five zero roger standby for climb,audio_files/audio_11124.wav,16,True,False,imp
+8751,one two one zero nine aerosvit two zero nine,audio_files/audio_8751.wav,9,False,True,nq
+1183,confirm direct bohum for runway two two negative polom runway zero four,audio_files/audio_1183.wav,12,True,False,yn
+1178,inbound odnem out of two five three cleared three one zero request final three three,audio_files/audio_1178.wav,15,True,False,imp
+8727,csa eight zero two confirm requested flight level,audio_files/audio_8727.wav,8,True,False,wh
+4609,lufthansa two four mike climb three four zero and request three four zero roger,audio_files/audio_4609.wav,14,True,False,imp
+6127,bratislava one three four four seven five viking three zero five good bye,audio_files/audio_6127.wav,13,False,True,nq
+550,hotel whiskey echo for the time being not available i will call you back,audio_files/audio_550.wav,14,False,True,nq
+11232,lufthansa four charlie kilo contact bratislava on one three four four seven five,audio_files/audio_11232.wav,13,False,True,nq
+10594,seven eight two five direct on,audio_files/audio_10594.wav,6,False,True,nq
+2676,praha good afternoon ryan air seven four zulu foxtrot descending flight level three five zero direct to elnek request further descend,audio_files/audio_2676.wav,21,True,False,imp
+8835,runway one three cleared to land csa zero two five,audio_files/audio_8835.wav,10,False,True,nq
+4801,ok start approved one hotel and confirm squawk one four one one four four please,audio_files/audio_4801.wav,15,True,False,yn
+2380,ok continue heading that s one two zero and ready any time contract one romeo golf,audio_files/audio_2380.wav,16,False,True,nq
+11761,descend flight level six zero confirm,audio_files/audio_11761.wav,6,True,False,yn
+10682,startup is approved papa qn,audio_files/audio_10682.wav,5,False,True,nq
+1653,csa seven six echo contact radar one one eight decimal three seven five one one eight three seven five,audio_files/audio_1653.wav,19,False,True,nq
+6146,aerosvit two zero nine departing,audio_files/audio_6146.wav,5,False,True,nq
+4783,stefanik tower oscar mike charlie india alfa request,audio_files/audio_4783.wav,8,True,False,imp
+11123,sorry can you say again for klm one three s,audio_files/audio_11123.wav,10,True,False,wh
+9091,swiss one three four nine praha radar,audio_files/audio_9091.wav,7,False,True,nq
+2203,lot five two papa descend four thousand feet,audio_files/audio_2203.wav,8,False,True,nq
+9960,descend five thousand feet qnh one zero two two northshuttel three five eight zero,audio_files/audio_9960.wav,14,False,True,nq
+11274,a nine three zero radar radar contact climb flight level eight zero climb flight level eight zero csa nine three zero,audio_files/audio_11274.wav,21,False,True,nq
+10680,ryan air five four one praha hello radar contact climb to flight level three four zero and confirm requested cruising level,audio_files/audio_10680.wav,21,True,False,nq
+4722,air france one zero eight two contact ruzyne tower one one eight decimal one,audio_files/audio_4722.wav,14,False,True,nq
+55,for runway one,audio_files/audio_55.wav,3,False,True,nq
+6749,lufthansa mike continue for what two zero meters and then will be first a yellow light to the right,audio_files/audio_6749.wav,19,True,False,nq
+11800,sky travel eight two four radar radar contact climb flight level one six zero,audio_files/audio_11800.wav,14,False,True,nq
+8931,lufthansa seven two six climbing level three one zero and we are requesting three three zero roger standby thank you bye,audio_files/audio_8931.wav,21,True,False,imp
+502,lufthansa two echo kilo request to make an offset to the left because of wake turbule,audio_files/audio_502.wav,16,True,False,imp
+8613,when ready flight level three hundred reach by rapet lufthans,audio_files/audio_8613.wav,10,True,False,nq
+3189,one three three three nine zero eight two eight two bye bye,audio_files/audio_3189.wav,12,False,True,nq
+6086,air berlin two nine eight victor climbing flight level three four zero which is current final,audio_files/audio_6086.wav,16,True,False,imp
+4823,affirm we descending level two nine zero to be level by letko confirm,audio_files/audio_4823.wav,13,True,False,yn
+10495,roger one three four decimal four seven five,audio_files/audio_10495.wav,8,False,True,nq
+649,midland seven seven four what is your maximum mach number,audio_files/audio_649.wav,10,True,False,wh
+9916,climb flight level three four zero requesting flight level three eight zero if available ryan air three xray yankee,audio_files/audio_9916.wav,19,True,False,imp
+4853,tower united twenty twelve is just outside gala for one six right,audio_files/audio_4853.wav,12,False,True,imp
+1831,praha alitalia four nine one,audio_files/audio_1831.wav,5,False,True,imp
+9293,lufthansa five romeo whiskey say again,audio_files/audio_9293.wav,6,True,False,wh
+5948,aero flot o,audio_files/audio_5948.wav,3,False,True,nq
+4836,six three four,audio_files/audio_4836.wav,3,False,True,nq
+11772,point one five five good bye,audio_files/audio_11772.wav,6,False,True,nq
+5613,lufthansa seven two seven requesting descend lufthansa seven two seven descend to flight level two five zero,audio_files/audio_5613.wav,17,True,False,imp
+7387,one three five one three five good bye eight two eight three,audio_files/audio_7387.wav,12,False,True,nq
+2555,a bravo delta five one zero confirm climb to flight level three three zero affirm sir climb to three three zero,audio_files/audio_2555.wav,21,True,False,yn
+625,two one nine csa se,audio_files/audio_625.wav,5,False,True,nq
+1933,oscar sierra juliett turn left heading three four zero cleared ils approach runway three one report when established,audio_files/audio_1933.wav,18,True,False,nq
+10638,maitain flight level nine,audio_files/audio_10638.wav,4,False,True,nq
+7570,lufthansa nine juliett charlie reduce speed one six zero knots till four miles confirm established,audio_files/audio_7570.wav,15,True,False,yn
+8327,zero and we would like to,audio_files/audio_8327.wav,6,False,True,imp
+4916,clear line up and cleared for takeoff runway three one lot five two eight,audio_files/audio_4916.wav,14,False,True,nq
+4170,hotel one foxtrot say again rest,audio_files/audio_4170.wav,6,True,False,wh
+2040,and csa four two zero confirm three seven zero is final,audio_files/audio_2040.wav,11,True,False,yn
+11142,two three on the squawk wizz air five nine one,audio_files/audio_11142.wav,10,False,True,nq
+10878,csa nine two delta contact radar one one eight three seven five,audio_files/audio_10878.wav,12,False,True,nq
+5068,hotel oscar foxtrot whiskey four thousand five hundred feet request to leave frequency,audio_files/audio_5068.wav,13,True,False,imp
+7202,three six one climbing two four zero direct request three four zero as cruising,audio_files/audio_7202.wav,14,True,False,imp
+6299,six mike alfa request,audio_files/audio_6299.wav,4,True,False,imp
+8895,easy five four nine seven established,audio_files/audio_8895.wav,6,False,True,nq
+3001,say again the departure we for us,audio_files/audio_3001.wav,7,True,False,wh
+10504,two six two three runway one three cleared to land wind zero eight zero degrees fi,audio_files/audio_10504.wav,16,False,True,nq
+2836,three one,audio_files/audio_2836.wav,2,False,True,nq
+11789,air berlin two three eight sierra praha radar contact,audio_files/audio_11789.wav,9,False,True,nq
+5369,lot five two papa contact ground one two one nine,audio_files/audio_5369.wav,10,False,True,nq
+3148,lufthansa seven three eight confirm three three zero requested,audio_files/audio_3148.wav,9,True,False,yn
+2996,euro trans one three juliett request push and start,audio_files/audio_2996.wav,9,True,False,imp
+11341,continue present heading three zero three and ruzyne radar one one nine decimal zero sky travel nine five juliett,audio_files/audio_11341.wav,19,False,True,nq
+4935,bin air one zero bravo try again one three four decimal nine two five good bye,audio_files/audio_4935.wav,16,False,True,nq
+1650,affirm and confirm requested flight level request final level three five zero,audio_files/audio_1650.wav,12,True,False,wh
+5994,berne tower hello again helicopter hotel bravo zulu whiskey juliett uttigen two thousand three hundred,audio_files/audio_5994.wav,15,False,True,imp
+3741,windgoose two one two contact praha radar one two seven decimal eight two five good day,audio_files/audio_3741.wav,16,False,True,nq
+10232,d hotel alfa climb flight level three two zero report requested flight level d alfa climbing three two zero requested three six zero,audio_files/audio_10232.wav,23,True,False,imp
+7187,ok what rate of climb could you maintain,audio_files/audio_7187.wav,8,True,False,wh
+1403,lufthansa five papa juliett maintaining level two eight zero approching arnav agnav request,audio_files/audio_1403.wav,13,True,False,imp
+9762,easy three papa golf requesting further climb,audio_files/audio_9762.wav,7,True,False,imp
+5405,information kilo which runway can we expect for departure,audio_files/audio_5405.wav,9,True,False,wh
+9262,descend to flight level two nine zero austrian one seven six papa,audio_files/audio_9262.wav,12,False,True,nq
+9733,radar csa five delta romeo flight level two five zero descending one seven zero,audio_files/audio_9733.wav,14,False,True,nq
+11634,one three two decimal one five five good bye,audio_files/audio_11634.wav,9,False,True,nq
+7049,easy nine charlie lima confirm qnh one zero two three,audio_files/audio_7049.wav,10,True,False,yn
+57,descend level three four zero lufthansa three kilo victor,audio_files/audio_57.wav,9,False,True,nq
+7571,point one three six eight kilo papa,audio_files/audio_7571.wav,7,False,True,nq
+8157,what is your routing to after victor lima mike,audio_files/audio_8157.wav,9,True,False,wh
+9338,austrian three seven seven alfa climb flight level three four zero level three four zero three seven seven alfa we request three six zero,audio_files/audio_9338.wav,24,True,False,nq
+9566,praha lufthansa one papa kilo passing flight,audio_files/audio_9566.wav,7,False,True,imp
+4090,singapoore three two five how do you read,audio_files/audio_4090.wav,8,True,False,wh
+3131,lufthansa seven echo lima hello confirm ready for departure,audio_files/audio_3131.wav,9,True,False,yn
+7310,five two one ready for descen,audio_files/audio_7310.wav,6,False,True,imp
+1526,thai nine three three now india read you lound and clear how do you read praha,audio_files/audio_1526.wav,16,True,False,wh
+9847,tower bern hotel bravo kilo golf november blue parking vfr local as plan route whiskey information november request taxi,audio_files/audio_9847.wav,19,True,False,imp
+8402,continue approa,audio_files/audio_8402.wav,2,False,True,nq
+3809,radar grosjet seven whiskey confirm flight level one six zero,audio_files/audio_3809.wav,10,True,False,yn
+4594,csa three zero three speed one sixty until four one one eight one,audio_files/audio_4594.wav,13,False,True,nq
+11208,oscar kilo triple hotel please confirm one more holding,audio_files/audio_11208.wav,9,True,False,yn
+5127,csa six one eight line up runway one three and wait,audio_files/audio_5127.wav,11,False,True,nq
+8503,el three two zero confirm requested cruising level,audio_files/audio_8503.wav,8,True,False,yn
+592,and what about radial direct to,audio_files/audio_592.wav,6,True,False,wh
+6822,climb flight level eight zero csa three kilo foxtrot,audio_files/audio_6822.wav,9,False,True,nq
+9121,call departure one two zero decimal five two five bye bye two zero five two five,audio_files/audio_9121.wav,16,False,True,nq
+9939,csa nine two one descend five thousand feet qnh one zero two three,audio_files/audio_9939.wav,13,False,True,nq
+11506,oscar kilo bravo alfa lima request shortcut to vlasim if possible,audio_files/audio_11506.wav,11,True,False,imp
+4322,descend level eight zero el al five two one,audio_files/audio_4322.wav,9,False,True,nq
+4547,ruzyne tower emirates one four zero,audio_files/audio_4547.wav,6,False,True,imp
+1056,raha we re requesting flight level three eight zero roger standby,audio_files/audio_1056.wav,11,True,False,imp
+4728,how do you read me now now loud and clear thank you,audio_files/audio_4728.wav,12,True,False,wh
+6444,flight level six zero when reaching maintai,audio_files/audio_6444.wav,7,True,False,nq
+5769,roger expect further climb after passing kilnu from rhein control,audio_files/audio_5769.wav,10,False,True,nq
+2617,sa two mike delta,audio_files/audio_2617.wav,4,False,True,unknown
+7092,ok delta and lima,audio_files/audio_7092.wav,4,False,True,nq
+2030,descending one zero zero speed two two zero csa three echo delta,audio_files/audio_2030.wav,12,False,True,nq
+4173,lufthansa seven eight six praha good evening radar contact report requested flight level,audio_files/audio_4173.wav,13,True,False,wh
+7654,good afternoon lufthansa seven lima echo stand one seven request,audio_files/audio_7654.wav,10,True,False,imp
+5750,lufthansa nine alfa foxtrot descend flight level two nine zero,audio_files/audio_5750.wav,10,False,True,nq
+393,easy three eight papa golf we are ready for depart,audio_files/audio_393.wav,10,False,True,imp
+1961,one three four five nine zero thank you very much have a nice day ryan air nine one seven three,audio_files/audio_1961.wav,20,False,True,nq
+537,austrian five five alfa delta i didn t catch your request do you want to climb to three eight zero,audio_files/audio_537.wav,20,True,False,yn
+3165,lufthansa one uniform xray report requested level to rhein one three three decimal two eight five good bye,audio_files/audio_3165.wav,18,True,False,nq
+8573,when passing ten thousand feet to four thousand feet mosquito one five bravo,audio_files/audio_8573.wav,13,True,False,nq
+6702,air berlin four six one quebec hello radar contact climb flight level three four zero confirm requested cruising level,audio_files/audio_6702.wav,19,True,False,wh
+6615,tower good day lufthansa nine,audio_files/audio_6615.wav,5,False,True,imp
+8357,climb flight level one six,audio_files/audio_8357.wav,5,False,True,nq
+5187,and confirm one seven eight two we maintaining heading zero nine zero affirm correct,audio_files/audio_5187.wav,14,True,False,yn
+2984,copy descend four thousand feet qnh one zero one nine call you when ready for visual csa five papa cha,audio_files/audio_2984.wav,20,True,False,nq
+10468,lufthansa five mike echo contact ground one two one nine bye,audio_files/audio_10468.wav,11,False,True,nq
+1740,hotel oscar foxtrot frequency change approved,audio_files/audio_1740.wav,6,False,True,nq
+4844,oscar echo delta golf approaching flight level three one zero request higher,audio_files/audio_4844.wav,12,True,False,imp
+8088,lufthansa two november mike when ready descend flight level three zero zero to reach by rapet,audio_files/audio_8088.wav,16,True,False,nq
+11472,jobair zero five two radar radar contact climb flight level seven zero,audio_files/audio_11472.wav,12,False,True,nq
+5352,csa five two zero call for sequence ready,audio_files/audio_5352.wav,8,False,True,imp
+10792,f it s availbale easy three eight papa g ok it it s able from golf then taxi hotel one foxtrot golf holding point runway one three,audio_files/audio_10792.wav,27,False,True,yn
+517,cleared to hurghada one hotel departure,audio_files/audio_517.wav,6,False,True,nq
+7504,six three is comin,audio_files/audio_7504.wav,4,False,True,nq
+11484,direct to juliett alfa november,audio_files/audio_11484.wav,5,False,True,nq
+4361,wizz air four yankee victor contact praha one three three decimal three nine zero good,audio_files/audio_4361.wav,15,False,True,nq
+1359,csa three zero three request descent,audio_files/audio_1359.wav,6,True,False,imp
+5138,csa nine zero four radar radar contact climb to four thousand feet,audio_files/audio_5138.wav,12,False,True,nq
+4186,request taxi csa two eight six,audio_files/audio_4186.wav,6,True,False,imp
+9555,hotel sierra turn right heading zero one zero,audio_files/audio_9555.wav,8,False,True,nq
+4668,three four and point nine zero confirm,audio_files/audio_4668.wav,7,True,False,yn
+525,oscar kilo delta sierra juliett praha hello radar contact confirm requested cruising level,audio_files/audio_525.wav,13,True,False,wh
+2663,flight level eight zero eight one mike,audio_files/audio_2663.wav,7,False,True,nq
+1482,climbing three four zero wizz air four quebec uniform final requested three eight zero roger,audio_files/audio_1482.wav,15,True,False,imp
+1300,channex eight seven papa romeo to the left taxiway lima and contact ruzyne ground one two one decimal nine good bye,audio_files/audio_1300.wav,21,False,True,nq
+5244,praha radar good day nor shuttle one one five seven to,audio_files/audio_5244.wav,11,False,True,imp
+6703,tower csa seven seven echo,audio_files/audio_6703.wav,5,False,True,nq
+11170,one three two decimal three five,audio_files/audio_11170.wav,6,False,True,nq
+2858,seven tango,audio_files/audio_2858.wav,2,False,True,nq
+7503,and lufthansa two five two eight request flight level,audio_files/audio_7503.wav,9,True,False,imp
+5149,praha austrian five two hotel juliett approaching level three three zero,audio_files/audio_5149.wav,11,False,True,imp
+296,roger thank you contact tower one one eight decimal one bye bye tower eighteen,audio_files/audio_296.wav,14,False,True,nq
+6166,o can you just confirm,audio_files/audio_6166.wav,5,True,False,yn
+697,say again heli lima juliett,audio_files/audio_697.wav,5,True,False,nq
+1037,air hamburg six nine two lima stefanik tower dobry den,audio_files/audio_1037.wav,10,False,True,imp
+869,euro trans six eight zero two climb flight level two nine zero euro trans six eight zero climbing two nine zero initially,audio_files/audio_869.wav,22,False,True,nq
+5820,reach six three three descend two nine zero,audio_files/audio_5820.wav,8,False,True,nq
+10133,zero and request m,audio_files/audio_10133.wav,4,True,False,imp
+6205,lufthansa seven seven papa climb flight level three four zero request flight level standby,audio_files/audio_6205.wav,14,True,False,imp
+1051,lufthansa five juliett whiskey i m sorry say again frequency,audio_files/audio_1051.wav,10,True,False,wh
+6595,three one three one three,audio_files/audio_6595.wav,5,False,True,nq
+10428,three hundred and say again,audio_files/audio_10428.wav,5,True,False,wh
+6155,csa four kilo papa line up runway three one,audio_files/audio_6155.wav,9,False,True,nq
+6153,csa four victor papa runway three one cleared for takeoff wind calm runway three one cleared for takeoff csa four victor papa,audio_files/audio_6153.wav,22,False,True,nq
+277,a four two zero contact praha radar one two seven decimal eight two five,audio_files/audio_277.wav,14,False,True,nq
+8976,descend two nine zero hotel,audio_files/audio_8976.wav,5,False,True,nq
+10032,level three four zero wizz air four november,audio_files/audio_10032.wav,8,False,True,nq
+5312,control alfa bravo delta five one zero requesting flight level three three zero,audio_files/audio_5312.wav,13,True,False,imp
+10206,praha radar radar contact descend flight level one zero zero high speed approved current information is kilo qnh one zero two two,audio_files/audio_10206.wav,22,False,True,imp
+9114,lufthansa four tango papa contact ruzyne radar one one nine decimal zero good bye,audio_files/audio_9114.wav,14,False,True,nq
+4608,o kilo golf belin five three delta thank you wizz air four november mike for higher level praha on one three three four one zero good day,audio_files/audio_4608.wav,27,False,True,nq
+708,easy three zero six five runway one three cleared to land wind zero six zero seven knots,audio_files/audio_708.wav,17,False,True,nq
+7217,el al five two seven left heading two four zero,audio_files/audio_7217.wav,10,False,True,nq
+7829,speed bird four alfa charlie runway three one clear to land wind one eight zero degrees three knots,audio_files/audio_7829.wav,18,False,True,nq
+1843,radar hello klm one nine seven six out of level three zero one climbing level three four zero,audio_files/audio_1843.wav,18,False,True,imp
+4494,csa three five delta request descend,audio_files/audio_4494.wav,6,True,False,imp
+1531,direct to arvek,audio_files/audio_1531.wav,3,False,True,nq
+4137,emirates one three nine request descend,audio_files/audio_4137.wav,6,True,False,imp
+3559,sky travel nine five juliett present heading vectoring for ils runway one three an,audio_files/audio_3559.wav,14,False,True,nq
+2379,left zero three zero,audio_files/audio_2379.wav,4,False,True,nq
+10841,for takeoff bye bye,audio_files/audio_10841.wav,4,False,True,nq
+2899,please confirm one three zero only affirm flight level one three zero,audio_files/audio_2899.wav,12,True,False,yn
+6185,air china nine six one when ready descend to flight level two five zero reach level by kolad,audio_files/audio_6185.wav,18,True,False,nq
+7271,startup approved runway one two qnh one zero two one to destination morning three zero departure flight level one hundred and squawk one thousand swiss air force zero four two,audio_files/audio_7271.wav,30,False,True,nq
+2771,request flight level three nine zero,audio_files/audio_2771.wav,6,True,False,imp
+913,praha hello emirates two one four level three five zero,audio_files/audio_913.wav,10,False,True,imp
+11820,roger when reaching maintain three three zero,audio_files/audio_11820.wav,7,True,False,nq
+1825,reducing two one zero cs,audio_files/audio_1825.wav,5,False,True,nq
+2536,praha radar csa two mike zulu airborn passing one thousand nine,audio_files/audio_2536.wav,11,False,True,imp
+2941,siberia eight nine seven hello radar contact,audio_files/audio_2941.wav,7,False,True,nq
+4996,feet voz one bravo,audio_files/audio_4996.wav,4,False,True,nq
+3011,say again frequency,audio_files/audio_3011.wav,3,True,False,wh
+1599,yangtze river seven four six ze zero push back crew knows how to push you out yet,audio_files/audio_1599.wav,17,True,False,nq
+4135,klm one three five two roger use romeo and report ready yeah we are fully ready when reaching romeo klm one,audio_files/audio_4135.wav,21,True,False,imp
+11370,say again ea,audio_files/audio_11370.wav,3,True,False,wh
+8700,shamrock six six one contact praha one three five decimal four six zero good bye,audio_files/audio_8700.wav,15,False,True,nq
+5665,el al three three seven request to climb level three four zero due to turbolence,audio_files/audio_5665.wav,15,True,False,imp
+8440,yes standby second wizz air five five six now taxi to the right via hotel lima holding point r,audio_files/audio_8440.wav,19,False,True,nq
+7904,praha emirates two zero good evening level three five zero on course ro,audio_files/audio_7904.wav,13,False,True,imp
+2229,ro cleared for ils,audio_files/audio_2229.wav,4,False,True,nq
+289,german wings eight november xray praha hello radar contact climb flight level three four zero confirm requested cruising level,audio_files/audio_289.wav,19,True,False,wh
+11074,three seven papa left turn heading three two zero cleared vor dme three one call you establish on fi,audio_files/audio_11074.wav,19,False,True,nq
+1035,ryan air one bravo alfa stand five seven qnh one zero one two request engine start,audio_files/audio_1035.wav,16,True,False,imp
+9742,climbing flight level three two zero and final level will be a three five ze,audio_files/audio_9742.wav,15,False,True,nq
+6718,down level one seven zero,audio_files/audio_6718.wav,5,False,True,nq
+6663,wizz air four tango echo climb flight level three four zero report requested flight level,audio_files/audio_6663.wav,15,True,False,wh
+8125,lufthansa six kilo yankee please confirm frequency one three two decimal one five,audio_files/audio_8125.wav,13,True,False,wh
+5163,after oscar,audio_files/audio_5163.wav,2,False,True,nq
+781,beline six bravo november runway one three clear to land wind three five zero degrees seven knots,audio_files/audio_781.wav,17,False,True,nq
+11582,hotel lima hold short,audio_files/audio_11582.wav,4,False,True,nq
+1767,tower hello lufthansa two uniform xray ils three one,audio_files/audio_1767.wav,9,False,True,imp
+4333,speed bird one zero nine good evening radar contact direct pepik,audio_files/audio_4333.wav,11,False,True,nq
+7034,lufthansa seven seven papa praha radar contact climb to flight level three four zero and confirm requested cruising level,audio_files/audio_7034.wav,19,True,False,wh
+7129,and we are ready for,audio_files/audio_7129.wav,5,False,True,imp
+7937,bravo kilo hotel romeo tower grutzli say again taxiway kilo cross runway two eight and contact apron one two one decimal seven five five,audio_files/audio_7937.wav,24,True,False,nq
+11701,a confirm one seven five four,audio_files/audio_11701.wav,6,True,False,yn
+4116,csa two nine six confirm you are in,audio_files/audio_4116.wav,8,True,False,yn
+9069,hello tower csa four mike bravo lima ready in seque,audio_files/audio_9069.wav,10,False,True,imp
+93,austrian three one one november call praha one three three point three nine zero good bye,audio_files/audio_93.wav,16,False,True,nq
+2621,and direct to venox,audio_files/audio_2621.wav,4,False,True,nq
+6838,lufthansa five juliett whiskey climbing level three four zero,audio_files/audio_6838.wav,9,False,True,nq
+11621,praha radar good day lufthansa,audio_files/audio_11621.wav,5,False,True,imp
+7946,manwings seven papa one one eight one good day,audio_files/audio_7946.wav,9,False,True,nq
+4026,lufthansa seven eight approaching flight level two nine zero and we re requesting flight level three three zero,audio_files/audio_4026.wav,18,True,False,nq
+3966,air france three two four seven request level three six zero roger standby,audio_files/audio_3966.wav,13,True,False,imp
+3713,american one five nine climb to flight level three six zero three six zero american one five nine,audio_files/audio_3713.wav,18,False,True,nq
+1556,hotel golf papa continue on the runway vacate via charlie then taxi your discretion blue sector,audio_files/audio_1556.wav,16,False,True,nq
+7168,lufthansa three charlie hotel descend flight level two nine zero,audio_files/audio_7168.wav,10,False,True,nq
+11809,one three four four seven five speed bird eight seven,audio_files/audio_11809.wav,10,False,True,nq
+9691,is your requested level,audio_files/audio_9691.wav,4,True,False,wh
+521,tower continue approach,audio_files/audio_521.wav,3,False,True,nq
+8625,oscar kilo echo lima alfa confirm proceeding to tango bravo four zero two,audio_files/audio_8625.wav,13,True,False,yn
+5007,praha control etihad zero one eight please confirm we have to remain in this frequency,audio_files/audio_5007.wav,15,True,False,yn
+3079,and sky travel one zero three four request push back clearance,audio_files/audio_3079.wav,11,True,False,imp
+9547,beline four zero victor runway one three cleared for takeoff wind zero five zero degrees five knot,audio_files/audio_9547.wav,17,False,True,nq
+337,good morning lufthansa eight lima l ruzyne tower,audio_files/audio_337.wav,8,False,True,imp
+3815,klm one nine seven six hello radar contact report requested flight level,audio_files/audio_3815.wav,12,True,False,wh
+5555,hotel golf papa frequency change approved good bye,audio_files/audio_5555.wav,8,False,True,nq
+5537,oscar echo foxtrot bravo foxtrot request,audio_files/audio_5537.wav,6,True,False,imp
+9630,we have the traffic in sight rega one zero we leave the control zone schone namittag,audio_files/audio_9630.wav,16,False,True,nq
+7430,midland seven seven four confirm eight three or more,audio_files/audio_7430.wav,9,True,False,yn
+7803,ruzyne tower oscar kilo mike echo papa is to tango then request,audio_files/audio_7803.wav,12,True,False,imp
+11221,go ahead flight level three three zero on request please,audio_files/audio_11221.wav,10,True,False,imp
+3058,descend one three zero and say again,audio_files/audio_3058.wav,7,True,False,wh
+4921,squawk say again two zero eight,audio_files/audio_4921.wav,6,True,False,wh
+5609,and swiss one two four bravo just confirm the heading is zero four zero,audio_files/audio_5609.wav,14,True,False,yn
+6271,cleared line up take o,audio_files/audio_6271.wav,5,False,True,nq
+6456,speed bird three zero charlie turn right i say again turn right direct to rapet,audio_files/audio_6456.wav,15,True,False,nq
+11759,singapoor two five go ahead singapoor two five request direct position,audio_files/audio_11759.wav,11,True,False,imp
+11707,eight echo november reducing,audio_files/audio_11707.wav,4,False,True,nq
+81,three one two passing flight level two two seven climbing three one zero,audio_files/audio_81.wav,13,False,True,imp
+10154,donavia three zero five radar radar contact descend to flight level one zero zero information november correct higher speed approved,audio_files/audio_10154.wav,20,False,True,nq
+11581,direct to somis csa five,audio_files/audio_11581.wav,5,False,True,nq
+5513,ro five five,audio_files/audio_5513.wav,3,False,True,nq
+3242,praha lufthansa eight victor lima say again,audio_files/audio_3242.wav,7,True,False,wh
+11023,one two one nine,audio_files/audio_11023.wav,4,False,True,nq
+11355,lufthansa one four nine two request flight level three five zero,audio_files/audio_11355.wav,11,True,False,imp
+5082,lot one four nine,audio_files/audio_5082.wav,4,False,True,nq
+6625,tower one one eight one wizz air four charlie bravo good nigh,audio_files/audio_6625.wav,12,False,True,nq
+2535,chanex eight eight papa romeo line up runway one three,audio_files/audio_2535.wav,10,False,True,nq
+10515,so startup si a,audio_files/audio_10515.wav,4,False,True,unknown
+6049,and lufthansa nine alfa hotel requesting flight level three five zero roger standby,audio_files/audio_6049.wav,13,True,False,imp
+5104,zero five zero vectors for sequence,audio_files/audio_5104.wav,6,False,True,nq
+6376,air france one nine eight three i estimate two landings standby,audio_files/audio_6376.wav,11,False,True,nq
+1145,cleared for takeoff runway one three air fra,audio_files/audio_1145.wav,8,False,True,nq
+1724,csa seven five nine descend four thousand feet qnh one zero two two turn left heading zero eight zero,audio_files/audio_1724.wav,19,False,True,nq
+5183,csa seven eight six ruzyne tower,audio_files/audio_5183.wav,6,False,True,imp
+6754,turn right heading two two zero russia two two one,audio_files/audio_6754.wav,10,False,True,nq
+10846,left three three zero cleared for the ils call you and reducing swiss one two four bravo,audio_files/audio_10846.wav,17,False,True,nq
+3545,praha radar good evening air berlin two eight nine kilo passinf flight level two six zero climbing flight level two eight zero inbound lanux,audio_files/audio_3545.wav,24,False,True,imp
+10782,lufthansa two hotel tango turn left heading three four zero cleared ils approach runway three one report when established,audio_files/audio_10782.wav,19,True,False,nq
+3192,austrian five five alfa delta calling,audio_files/audio_3192.wav,6,False,True,yn
+5926,hello channex eight eight pa,audio_files/audio_5926.wav,5,False,True,unknown
+7175,climb flight level three four zero request flight level three seven zero as final easy six one three golf,audio_files/audio_7175.wav,19,True,False,nq
+2367,climbing flight level three four zero,audio_files/audio_2367.wav,6,False,True,nq
+8760,easy three zero six five hello radar radar contact no speed restrictions descend flight level seven zero,audio_files/audio_8760.wav,17,False,True,nq
+3908,negative frequency one three four decimal four four zero,audio_files/audio_3908.wav,9,False,True,nq
+2949,request three five zero russia two five eight,audio_files/audio_2949.wav,8,True,False,imp
+5079,three charlie zulu passing level one nine one descending level one seven zero november one zero one nine,audio_files/audio_5079.wav,18,False,True,imp
+6232,sky travel one zero three four request ta,audio_files/audio_6232.wav,8,True,False,imp
+2007,three four zero cleared vor dme three one call you on final tra,audio_files/audio_2007.wav,13,False,True,nq
+9675,three five,audio_files/audio_9675.wav,2,False,True,nq
+2957,united one three five behind lufthansa line up runway,audio_files/audio_2957.wav,9,False,True,nq
+10359,air malta five three can you confirm check,audio_files/audio_10359.wav,8,True,False,wh
+9309,d hotel alfa climb flight level three three zero d hotel alfa climbing three three zero,audio_files/audio_9309.wav,16,False,True,nq
+184,eight five six descend flight level eight zero,audio_files/audio_184.wav,8,False,True,nq
+6233,one three three three nine zero singapoore three two five confirm,audio_files/audio_6233.wav,11,True,False,yn
+6292,few left turn to rapet beline six,audio_files/audio_6292.wav,7,False,True,nq
+11349,bound evemi desc,audio_files/audio_11349.wav,3,False,True,unknown
+8410,beline three papa p turn left heading three four zero cleared ils approach runway three one report when established left heading three,audio_files/audio_8410.wav,22,True,False,nq
+2735,aerosvit two o,audio_files/audio_2735.wav,3,False,True,unknown
+11592,we request for cruise level three six zero ryan air five juliett uniform,audio_files/audio_11592.wav,13,True,False,imp
+2504,wizz air four tango echo hello radar contact climb to flight level three zero zero level three zero zero wizz air four tango echo,audio_files/audio_2504.wav,24,False,True,nq
+6432,climb flight level one four zero jobair zero five two,audio_files/audio_6432.wav,10,False,True,nq
+9950,radar csa five mike bravo maintaining flight level one two zero request descend,audio_files/audio_9950.wav,13,True,False,imp
+6860,praha thai nine three one confirm contact warsaw one two zero decimal nine five zero,audio_files/audio_6860.wav,15,True,False,yn
+8551,climbing flight level one six zero csa four eight zero,audio_files/audio_8551.wav,10,False,True,nq
+6319,clear to line up and takeoff runway one three el al five two two,audio_files/audio_6319.wav,14,False,True,nq
+1424,we are familiar with ai airspace echo and ready for descen,audio_files/audio_1424.wav,11,False,True,imp
+7480,praha two flight level three one zero request flight level three five zero,audio_files/audio_7480.wav,13,True,False,imp
+10511,easy three zero six five approaching flight level seven zero requsting further descend when able,audio_files/audio_10511.wav,15,True,False,imp
+10697,lufthansa four eight five two request direct,audio_files/audio_10697.wav,7,True,False,imp
+6139,and request,audio_files/audio_6139.wav,2,True,False,imp
+3963,correct expect departure ahead,audio_files/audio_3963.wav,4,False,True,nq
+4565,praha radar good morning nicky eight zero one seven descending level three five zero inbound,audio_files/audio_4565.wav,15,False,True,imp
+11537,csa eight zero three descend flight level one zero zero,audio_files/audio_11537.wav,10,False,True,nq
+9684,november two six nine six sierra what is your maximum speed till four miles final,audio_files/audio_9684.wav,15,True,False,wh
+445,praha good evening lufthansa two five four zero reaching flight level two eight zero,audio_files/audio_445.wav,14,False,True,imp
+9498,good morning seven zero,audio_files/audio_9498.wav,4,False,True,nq
+11289,to the left heading two one five,audio_files/audio_11289.wav,7,False,True,nq
+7663,kilo november five one one we are,audio_files/audio_7663.wav,7,False,True,unknown
+9774,csa eight zero three descend flight level one two zero,audio_files/audio_9774.wav,10,False,True,nq
+2084,climb to flight level one six zero,audio_files/audio_2084.wav,7,False,True,nq
+6815,one three one zero five five good bye air berlin four zero seven,audio_files/audio_6815.wav,13,False,True,nq
+10334,austrian five five alfa delta after passing flight level three two zero direct to ra,audio_files/audio_10334.wav,15,False,True,nq
+4020,lufthansa six one three is descending now level three hun,audio_files/audio_4020.wav,10,False,True,nq
+5793,sky travel one one nine three descend flight level seven zero after kenok intercept localizer runway three one,audio_files/audio_5793.wav,18,False,True,nq
+3055,radar good morning transport one five five flight level three four zero inbound,audio_files/audio_3055.wav,13,False,True,imp
+7895,swedestar zero five one descend five thousand feet qnh one zero two one,audio_files/audio_7895.wav,13,False,True,nq
+4550,is it ok for you if we maintain four nautical miles left hand track all the way down to benesov,audio_files/audio_4550.wav,20,False,True,yn
+6075,ruzyne tower csa,audio_files/audio_6075.wav,3,False,True,nq
+2305,sorry say again,audio_files/audio_2305.wav,3,True,False,wh
+6389,three thousand feet and request new approach,audio_files/audio_6389.wav,7,True,False,imp
+7427,descend nine zero and ruzyne one one,audio_files/audio_7427.wav,7,False,True,nq
+4281,who is calling praha yes sir wizz air four romeo papa any chance to use runway three one fo,audio_files/audio_4281.wav,19,True,False,wh
+802,turkish one five two five praha radar contact proceed direct rapet,audio_files/audio_802.wav,11,False,True,nq
+996,november mike alfa vacate via charlie and how long do you stay,audio_files/audio_996.wav,12,True,False,wh
+2804,martinair zero nine five hello radar contact squawk one four six three,audio_files/audio_2804.wav,12,False,True,nq
+4667,climbing flight level two five zero request direct to vambo,audio_files/audio_4667.wav,10,True,False,imp
+5595,yanair eight foxtrot juliett rate of descend fifteen hundred feet per minute or more,audio_files/audio_5595.wav,14,False,True,nq
+11246,lufthansa six romeo victor contact wien one three four decimal four four zero good bye,audio_files/audio_11246.wav,15,False,True,nq
+185,zero for cruise over delta romeo november,audio_files/audio_185.wav,7,False,True,nq
+4282,radar klm one three five two passing two thousand fou,audio_files/audio_4282.wav,10,False,True,imp
+11651,flight level one two zero sierra,audio_files/audio_11651.wav,6,False,True,nq
+2838,lufthansa two uniform xray one two one nine,audio_files/audio_2838.wav,8,False,True,nq
+2605,opera jet three zero zero just for confirmation one hotel,audio_files/audio_2605.wav,10,True,False,yn
+4428,three two zero,audio_files/audio_4428.wav,3,False,True,nq
+6378,wizziar xray zulu turn left heading three four zero cleared ils approach runway three one report when established,audio_files/audio_6378.wav,18,True,False,nq
+6931,thank you,audio_files/audio_6931.wav,2,False,True,nq
+10282,no speed limit,audio_files/audio_10282.wav,3,False,True,nq
+10392,after omelo proceed direct odnem,audio_files/audio_10392.wav,5,False,True,nq
+5812,fly niki eight four nine zero praha one three four five nine zero,audio_files/audio_5812.wav,13,False,True,nq
+10573,csa eight echo charlie reduce speed two two zero,audio_files/audio_10573.wav,9,False,True,nq
+7984,mike sierra four descend,audio_files/audio_7984.wav,4,False,True,nq
+5660,go ahead csa eight zero four what level do you expect overhead pepik,audio_files/audio_5660.wav,13,True,False,wh
+11078,climbing level three four zero requested is three eight zero austrian three seven five alfa radar roger,audio_files/audio_11078.wav,17,True,False,nq
+9317,nine kilo yankee left,audio_files/audio_9317.wav,4,False,True,nq
+11132,requesting three eight zero four six ni,audio_files/audio_11132.wav,7,True,False,imp
+4216,six kilo alfa flight level three two zero is,audio_files/audio_4216.wav,9,False,True,nq
+10824,roger standby two zero four flight level three five zero direct to odnem,audio_files/audio_10824.wav,13,False,True,imp
+5973,recleared at tovka one kilo departure runway three initial climb five thousand feet and request push and start euro trans one three juliett,audio_files/audio_5973.wav,23,True,False,nq
+178,lufthansa one four nine zero request level three three zero,audio_files/audio_178.wav,10,True,False,imp
+7078,j tango three five zero please roger standby for further climb,audio_files/audio_7078.wav,11,False,True,yn
+1826,normal rate,audio_files/audio_1826.wav,2,False,True,nq
+7511,lufthansa seven one four proceed direct tomti climb flight level three three zero,audio_files/audio_7511.wav,13,False,True,nq
+5922,lufthansa two five four one praha hello radar contact,audio_files/audio_5922.wav,9,False,True,nq
+9426,lufthansa six november whiskey descend flight level two nine zero descend level two nine zero lufthansa six november whiskey,audio_files/audio_9426.wav,19,False,True,nq
+9509,lufthansa seven eight two,audio_files/audio_9509.wav,4,False,True,nq
+2709,csa nine delta sierra tower one one eight one,audio_files/audio_2709.wav,9,False,True,nq
+11174,air malta five three eight praha radar contact squawk three three seven si,audio_files/audio_11174.wav,13,False,True,nq
+2670,lufthansa seven five zero please confirm direct to topav negative direct to sopav sierra oscar papa alfa victor,audio_files/audio_2670.wav,18,True,False,yn
+11153,roger thank you for info,audio_files/audio_11153.wav,5,False,True,nq
+4782,descend level one three zero swiss four seven two echo nor shuttle three five eight zero turn right heading two four zero,audio_files/audio_4782.wav,22,False,True,nq
+730,hello ruzyne tower two one zero morning via lima deployed in three one,audio_files/audio_730.wav,13,False,True,imp
+11447,tower good morning quality eight nine zero request clearance to,audio_files/audio_11447.wav,10,True,False,imp
+10862,klm one three seven four contact rhein one three three decimal eight si,audio_files/audio_10862.wav,13,False,True,nq
+1451,lufthansa six juliett tango report requested flight level,audio_files/audio_1451.wav,8,True,False,wh
+946,for turkish one nine five six request,audio_files/audio_946.wav,7,True,False,imp
+6585,one two seven one two five csa two eight seven,audio_files/audio_6585.wav,10,False,True,nq
+6533,one four four,audio_files/audio_6533.wav,3,False,True,nq
+5578,for confirmation cleared level for austrian seven zero nine one three zero affirm flight level one three zero correct,audio_files/audio_5578.wav,19,True,False,wh
+3379,austrian three one four romeo when ready descend flight level three nine zero level by abrax,audio_files/audio_3379.wav,16,True,False,nq
+808,malaisian two one requesting flight level three five zero if available,audio_files/audio_808.wav,11,True,False,imp
+3182,clear to land one,audio_files/audio_3182.wav,4,False,True,nq
+6224,camber zero four two nine when ready descend flight level two eight zero level by hotel delta oscar,audio_files/audio_6224.wav,18,True,False,nq
+2098,air france one seven eight two now start reduce speed for approach two zero zero knots or less,audio_files/audio_2098.wav,18,False,True,nq
+9627,csa four bravo echo hello radar contact climb to flight level three one zero level by pisam,audio_files/audio_9627.wav,17,False,True,nq
+10539,say again,audio_files/audio_10539.wav,2,True,False,wh
+7691,confirm requested descend,audio_files/audio_7691.wav,3,True,False,yn
+11815,good afternoon klm one nine seven eight praha radar contact report your requested level,audio_files/audio_11815.wav,14,True,False,wh
+10627,heading two seven zero vectors for shortcut,audio_files/audio_10627.wav,7,False,True,nq
+11022,confirm lufthansa two four three four,audio_files/audio_11022.wav,6,True,False,yn
+11175,cathay zero six eight,audio_files/audio_11175.wav,4,False,True,nq
+684,delta two zero six contact rhein one two eight decimal zero seven five good bye,audio_files/audio_684.wav,15,False,True,nq
+3526,sky travel six one eight stand one five information november one zero one eight request starting and destination hurgha,audio_files/audio_3526.wav,19,True,False,imp
+1784,descend level one hundred we have information oscar and say again swedestar zero five one,audio_files/audio_1784.wav,15,True,False,wh
+7638,gulf air zero zero six squak one four six four,audio_files/audio_7638.wav,10,False,True,nq
+10548,two victor charlie descend flight level one hundred own spee,audio_files/audio_10548.wav,10,False,True,nq
+3199,yes five nine one requesting atc,audio_files/audio_3199.wav,6,True,False,imp
+10308,wizz air five two one climb to flight level three seven zero,audio_files/audio_10308.wav,12,False,True,nq
+6846,praha hello condor zero four two passing flight level two six six climbing three one zero hdo two nine zero or higher,audio_files/audio_6846.wav,22,False,True,imp
+9648,praha good afetrnoon ryan air eight zero eight eight,audio_files/audio_9648.wav,9,False,True,imp
+10291,yes anyway e,audio_files/audio_10291.wav,3,False,True,nq
+1836,csa nine delta sierra when ready descend flight level one one zero,audio_files/audio_1836.wav,12,True,False,nq
+11566,quality eight two fi,audio_files/audio_11566.wav,4,False,True,nq
+411,there s not on a we request start your frequency no response on to the free or grou,audio_files/audio_411.wav,18,True,False,nq
+4184,cimber five one eight when ready descend flight level two eight zero level by hotel delta oscar,audio_files/audio_4184.wav,17,True,False,nq
+1136,hello can you just confirm the frequency please one two seven decimal four two five,audio_files/audio_1136.wav,15,True,False,yn
+6655,flight level two nine zero and one three five three five bye bye lufthansa four november lima,audio_files/audio_6655.wav,17,False,True,nq
+10569,two victor charlie say again,audio_files/audio_10569.wav,5,True,False,wh
+5033,what level do you request,audio_files/audio_5033.wav,5,True,False,wh
+3621,camber three five two five runway three one clear to land wind is calm,audio_files/audio_3621.wav,14,False,True,nq
+5965,csa nine delta sierra when ready we ll descend flight level one one zero,audio_files/audio_5965.wav,14,True,False,nq
+9753,inbound patka flight level three four zero,audio_files/audio_9753.wav,7,False,True,imp
+1590,lufthansa seven eight seven what speed are you reducing,audio_files/audio_1590.wav,9,True,False,wh
+11051,hi control india alfa romeo india foxtrot good afternoon we are approaching flight level three one four,audio_files/audio_11051.wav,17,False,True,imp
+9021,lufthansa seven five nine descend level three hundred and say again where to reach,audio_files/audio_9021.wav,14,True,False,wh
+7881,swedestar zero five one reduce speed two zero zero knots,audio_files/audio_7881.wav,10,False,True,nq
+9751,jobair zero six two ruzyne tower continue approach continue approach jobair zero six,audio_files/audio_9751.wav,13,False,True,nq
+7500,s victor whiskey one one xray papa climbing three one zero on course,audio_files/audio_7500.wav,13,False,True,imp
+7838,wizz air four papa romeo confirm reqeusted level,audio_files/audio_7838.wav,8,True,False,wh
+10822,sky travel one zero three six contact praha radar one two zero two seven five,audio_files/audio_10822.wav,15,False,True,nq
+6648,confirm flight level one six zero for csa one eight four yes one eight four climb flight level one six zero climbing flight level one six zero csa one eight,audio_files/audio_6648.wav,30,True,False,yn
+9687,sa seven eight nine runway one,audio_files/audio_9687.wav,6,False,True,nq
+124,klm one eight four eight contact praha one three three decimal three nine zero good by,audio_files/audio_124.wav,16,False,True,nq
+1446,europa nine four kilo mike contact ground one two one decimal nine zero five good bye,audio_files/audio_1446.wav,16,False,True,nq
+198,praha radar time air six one two papa descending flight level one five zero,audio_files/audio_198.wav,14,False,True,imp
+3855,and two,audio_files/audio_3855.wav,2,False,True,nq
+8130,climb flight level seven zero and cleared to destination benesov via flight plan route,audio_files/audio_8130.wav,14,False,True,
+7191,ur six five and a climb which level,audio_files/audio_7191.wav,8,True,False,wh
+5580,right heading zero two zero cleared ils approach zero six and maximum one six zero speed confirm,audio_files/audio_5580.wav,17,True,False,yn
+4334,four zero cleared ils approach runway three one report when established,audio_files/audio_4334.wav,11,True,False,nq
+8651,six four for gulf air zero zero six,audio_files/audio_8651.wav,8,False,True,nq
+9689,cend flight level one zero zero intercept the llz runway three one emirates one three nine,audio_files/audio_9689.wav,16,False,True,nq
+11265,roger able confirm behind,audio_files/audio_11265.wav,4,True,False,yn
+8288,praha radar csa seven eight nine flight level three four zero direct mavor,audio_files/audio_8288.wav,13,False,True,imp
+3868,ryan air two xray foxtrot praha,audio_files/audio_3868.wav,6,False,True,nq
+6468,one three five one three five sierra victor papa,audio_files/audio_6468.wav,9,False,True,nq
+6885,one four,audio_files/audio_6885.wav,2,False,True,nq
+2817,condor zero four two praha hello radar contact confirm requested level,audio_files/audio_2817.wav,11,True,False,wh
+10318,reduce to two three zero knots plea,audio_files/audio_10318.wav,7,False,True,nq
+10856,radar lufthansa six romeo victor climbing three two zero final requeste,audio_files/audio_10856.wav,11,True,False,imp
+13,zero to holesova requested level one eight,audio_files/audio_13.wav,7,True,False,nq
+1067,lima delta zulu bel avia eight nine four,audio_files/audio_1067.wav,8,False,True,nq
+4455,ruzyne radar one one nine zero,audio_files/audio_4455.wav,6,False,True,nq
+3126,ague radar good evening from easy two six nine one approaching marem climbing to level three four ze,audio_files/audio_3126.wav,18,False,True,imp
+2148,lot three four three confirm requested cruising level,audio_files/audio_2148.wav,8,True,False,wh
+5631,two seven zero confirm,audio_files/audio_5631.wav,4,True,False,yn
+985,csa six three five turn left heading three four zero cleared ils approach runway three one report when established,audio_files/audio_985.wav,19,True,False,nq
+427,radar good evening cimber zero five,audio_files/audio_427.wav,6,False,True,imp
+8722,csa eight three five continue approach,audio_files/audio_8722.wav,6,False,True,nq
+7832,good morning air france one three eight three ruzyne tower,audio_files/audio_7832.wav,10,False,True,nq
+7295,sky travel one one zero three descend flight level nine zero contact radar one one nine decimal zero good bye,audio_files/audio_7295.wav,20,False,True,nq
+10157,aero flot one four nine confirm established yeah we are fully established aero flot one four nine roger contact ruzyne tower one one eight decimal one good bye,audio_files/audio_10157.wav,28,True,False,yn
+2514,contract two romeo golf when ready descend to flight level one five zero,audio_files/audio_2514.wav,13,True,False,nq
+9179,climbing level three four zero and request level three eight zero please austrian three seven one quebec,audio_files/audio_9179.wav,17,True,False,imp
+7355,roger approved,audio_files/audio_7355.wav,2,False,True,nq
+501,o kilo,audio_files/audio_501.wav,2,False,True,nq
+9644,four thousand one zero one nine confirm november,audio_files/audio_9644.wav,8,True,False,yn
+11150,praha ryan air five three lima xray passing flight level three two climbing flight level three four zero,audio_files/audio_11150.wav,18,False,True,imp
+6388,re re requeste is speed descending four thousand qnh one zero one eight aero flot one,audio_files/audio_6388.wav,16,True,False,nq
+384,climbing three four zero and request three six zero final nor shuttle one six three three,audio_files/audio_384.wav,16,True,False,imp
+8372,wave like turbolence cloud shear roger and for how long,audio_files/audio_8372.wav,10,True,False,wh
+8048,air france one three eight two tower good morning continue approach,audio_files/audio_8048.wav,11,False,True,nq
+10807,papa victor alfa request des,audio_files/audio_10807.wav,5,True,False,imp
+7225,confirm aero flot two seven nine calling,audio_files/audio_7225.wav,7,True,False,yn
+4603,radar oscar kilo hotel kilo sierra reaching flight level eight zero and request,audio_files/audio_4603.wav,13,True,False,imp
+10005,csa nine three delta turn left heading one nine zero,audio_files/audio_10005.wav,10,False,True,nq
+9247,three five one one hello radar contact proceed to mikov,audio_files/audio_9247.wav,10,False,True,nq
+1125,zero lot three,audio_files/audio_1125.wav,3,False,True,nq
+4001,aero flot one five zero hello ruzyne tower report ready,audio_files/audio_4001.wav,10,False,True,yn
+4155,descend level one three zero oscar copy it and speed,audio_files/audio_4155.wav,10,False,True,nq
+9603,n two six nine six sierra is on the localizer roger,audio_files/audio_9603.wav,11,False,True,nq
+7564,csa six three one ruzyne tower continue approach,audio_files/audio_7564.wav,8,False,True,nq
+3032,contract one romeo golf climb flight level one four zero climb level one four zero contract one romeo golf,audio_files/audio_3032.wav,19,False,True,nq
+6409,csa eight zero three request reduce speed to avoid holding,audio_files/audio_6409.wav,10,True,False,imp
+9200,climbing flight level one four zero csa fi,audio_files/audio_9200.wav,8,False,True,nq
+10276,swiss four nine nine charlie continue heading and expect right turn direct to cheb now in a moment,audio_files/audio_10276.wav,18,False,True,nq
+10404,sydney tower good evening jetstar six seventy one final runway three four left,audio_files/audio_10404.wav,13,False,True,imp
+9366,ha radar good evening one four zero two,audio_files/audio_9366.wav,8,False,True,imp
+5166,requesting level three one zero,audio_files/audio_5166.wav,5,True,False,imp
+8404,climb flight level two eight zero,audio_files/audio_8404.wav,6,False,True,nq
+886,one two zero two seventy five bye bye nine tango papa,audio_files/audio_886.wav,11,False,True,nq
+10895,r and ground one two one ni,audio_files/audio_10895.wav,7,False,True,nq
+1622,one three clear t,audio_files/audio_1622.wav,4,False,True,nq
+1283,thai nine three three check your radio please,audio_files/audio_1283.wav,8,False,True,nq
+1741,lufthansa nine whiskey turn right i say again turn right direct to rap,audio_files/audio_1741.wav,13,True,False,nq
+4858,go ahead,audio_files/audio_4858.wav,2,False,True,nq
+4749,sierra papa kilo papa sierra crossing traffic from left to right,audio_files/audio_4749.wav,11,False,True,nq
+4884,csa three charlie tango ruzyne tower roger,audio_files/audio_4884.wav,7,False,True,nq
+5378,sydney tower rex sixty one seventy five,audio_files/audio_5378.wav,7,False,True,imp
+6661,lux air seven five six two requesting flight level three six zero if available roger standby,audio_files/audio_6661.wav,16,True,False,imp
+619,roger i say again one four five three oman air one zero t,audio_files/audio_619.wav,13,True,False,nq
+8346,papa kilo papa sierra request flight level one four zero pribram,audio_files/audio_8346.wav,11,True,False,imp
+9716,padka and approaching level three three zero,audio_files/audio_9716.wav,7,False,True,nq
+4302,request heliport,audio_files/audio_4302.wav,2,True,False,imp
+7348,air france one three two descend four thousand feet cleared ils approach three one report when established,audio_files/audio_7348.wav,17,True,False,nq
+10538,beline four zero victor turn left resume own navigation direct rapet,audio_files/audio_10538.wav,11,False,True,nq
+5218,we request flight level three six zero if available,audio_files/audio_5218.wav,9,True,False,imp
+10774,approach hello good evening and what the fu,audio_files/audio_10774.wav,8,True,False,imp
+10572,thank you,audio_files/audio_10572.wav,2,False,True,nq
+11682,prague can you confirm the frequency for lufthansa four charlie kilo,audio_files/audio_11682.wav,11,True,False,wh
+11655,csa eight echo charlie reduce to,audio_files/audio_11655.wav,6,False,True,nq
+9456,and confirm for bee line eight hotel sierra descending level eight zero affirm eight zero,audio_files/audio_9456.wav,15,True,False,yn
+5713,ne good bye,audio_files/audio_5713.wav,3,False,True,nq
+8267,hold short of runway one three csa four delta romeo and we request full lenght,audio_files/audio_8267.wav,15,True,False,imp
+10845,speed bird eight five praha hello radar contact proceed to oscar kilo golf,audio_files/audio_10845.wav,13,False,True,nq
+3258,oscar alfa lima zulu i request to descend and change frequency to one two,audio_files/audio_3258.wav,14,True,False,imp
+197,hotel india victor danke,audio_files/audio_197.wav,4,False,True,nq
+10952,thank you the oscar echo foxtrot,audio_files/audio_10952.wav,6,False,True,nq
+2675,affirm lufthansa two four three four what is your requested cruising level lufthansa two four three four request three seven zero,audio_files/audio_2675.wav,21,True,False,wh
+10332,praha good afternoon shamrock six six one climbing flight level two eight zero to ditis requesting three six zer,audio_files/audio_10332.wav,19,True,False,imp
+2337,qatari zero eight four requesting climb three five zero sir,audio_files/audio_2337.wav,10,True,False,imp
+6467,martinair zero nine six praha proceed direct to norku,audio_files/audio_6467.wav,9,False,True,nq
+8792,please say again,audio_files/audio_8792.wav,3,True,False,wh
+5935,lufthansa two uniform xray reduce speed one six zero knots till four miles now turn left heading three four zero cleared ils approach runway three one report when established,audio_files/audio_5935.wav,29,True,False,nq
+10273,wizz air four bravo mike praha radar contact climb flight level three four zero climbing three four zero wizz air four bravo mike,audio_files/audio_10273.wav,23,False,True,nq
+3056,and lufthansa two foxtrot romeo requesting up to level three nine zero,audio_files/audio_3056.wav,12,True,False,imp
+10123,wizz air five one two eight contact radar one one nine decimal zero good bye,audio_files/audio_10123.wav,15,False,True,nq
+606,climb level three four zero requesting,audio_files/audio_606.wav,6,True,False,imp
+10935,praha radar csa nine zero five passing level one nine four descending flight level one seven zero direct evemi information mike o,audio_files/audio_10935.wav,22,False,True,imp
+1997,roger and confirm that we are cleared for the ils approach,audio_files/audio_1997.wav,11,True,False,wh
+2852,lufthansa seven five four please say again,audio_files/audio_2852.wav,7,True,False,wh
+7195,direct to polom and when ready direct descend to one three zero five seven,audio_files/audio_7195.wav,14,True,False,nq
+5284,lot three nine two praha radar contact stand bye for high,audio_files/audio_5284.wav,11,False,True,nq
+464,good evening air malta five three nine radar radar contact climb flight level six zero and prepare for right turn,audio_files/audio_464.wav,20,False,True,nq
+2768,say again air berlin four zero seven berlin four zero seven munich one three one zero five five bye bye,audio_files/audio_2768.wav,20,True,False,
