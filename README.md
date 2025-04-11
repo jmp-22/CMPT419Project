@@ -23,8 +23,8 @@ Project structure
 ├── train_prosody_only_type.ipynb (5.2)
 ├── train_multi_modal_binary.ipynb (5.3)
 ├── train_multi_modal_type.ipynb (5.4)
-├── inter_rater_agreement_score.ipynb
-├── inter_rater_agreement_scores.ipynb
+├── agreement_score.py
+
 
 📀 Final Dataset
 ├── N_1000_filtered_train_data_with_features.csv
