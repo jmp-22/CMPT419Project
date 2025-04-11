@@ -998,4 +998,4 @@ index,text,audio_path,word_count,potential_question,potential_statement,label
 7195,direct to polom and when ready direct descend to one three zero five seven,audio_files/audio_7195.wav,14,True,False,nq
 5284,lot three nine two praha radar contact stand bye for high,audio_files/audio_5284.wav,11,False,True,nq
 464,good evening air malta five three nine radar radar contact climb flight level six zero and prepare for right turn,audio_files/audio_464.wav,20,False,True,nq
-2768,say again air berlin four zero seven berlin four zero seven munich one three one zero five five bye bye,audio_files/audio_2768.wav,20,True,False,
+2768,say again air berlin four zero seven berlin four zero seven munich one three one zero five five bye bye,audio_files/audio_2768.wav,20,True,False,wh
