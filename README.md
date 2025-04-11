@@ -69,6 +69,10 @@ To train classifiers and generate results, run
 
 # Self-Reflection
 
+In retrospect, we faced difficulty in accurately classifying questions from prosodic features alone. However, we believe that this difficulty is particular to the dataset and application of our project. Many instances of the data were ambiguous to our own ears, due to the style of ATC communication. Operators typically speak with flat inflection in a monotone style, which makes it difficult to an untrained ear to identify questions. However, as we have outlined in our report, questions are being asked in such a way that follows protocol and uses specific language. It is only when unexpected circumstances occur that ATC and pilots may use a tone that conveys more information. The results of our classifier using prosodic features alone was slightly better than random guesses. However, when trained with lexical features, the classifier’s accuracy improved to over 80%. Our classifier methods were suited to the types of numerical features we extracted, but we think that better results could be achieved using a deep-learning approach to capture the complex patterns inherent in speech. To find success doing deep learning, a larger labelled dataset is required for supervised learning, or an unsupervised approach may produce better results if simply trained on spectrogram features. The problem of accurately interpreting tone is far from being solved and many fields, including aviation communication, could benefit from increased focus on prosodic features.
+
+
+
 
 
 
