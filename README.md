@@ -1,5 +1,31 @@
 # CMPT419Project
 
+## Project Structure
+
+There are 5 notebooks in this project that must be run in order. 
+No dataset is included in this repository, it must be downloaded if you wish to run the following project. However, to generate training results, the train.ipynb notebook can be run using the example file ```N_1000_filtered_train_data_with_features.csv``` located in ```example_files```
+
+
+Project structure
+```
+.
+├── README.md
+├── annotate_app.py
+├── install_dataset.ipynb
+├── filter_dataset.ipynb
+├── annotate_dataset.ipynb
+├── extract_and_visualize.ipynb
+├── requirements.txt
+└── example_files
+    ├── annotations.csv
+    ├── atc_audio_annotations.csv
+    ├── train_data.csv
+    ├── filtered_train_data.csv
+    ├── N_1000_filtered_train_data.csv
+    └── N_1000_filtered_train_data_with_features.csv
+
+```
+
 To run this project, a few prerequisites are needed. Firstly, the dataset is not included in this project by default. So, you will need to download audio data and transcriptions from the dataset page on huggingface. The dataset can be found here: 
 https://huggingface.co/datasets/jacktol/atc-dataset
 
