@@ -8,21 +8,41 @@ No dataset is included in this repository, it must be downloaded if you wish to 
 
 Project structure
 ```
+📂 Project Folder Structure
 .
 ├── README.md
-├── annotate_app.py
-├── install_dataset.ipynb
-├── filter_dataset.ipynb
-├── annotate_dataset.ipynb
-├── extract_and_visualize.ipynb
 ├── requirements.txt
-└── example_files
-    ├── annotations.csv
-    ├── atc_audio_annotations.csv
-    ├── train_data.csv
-    ├── filtered_train_data.csv
-    ├── N_1000_filtered_train_data.csv
-    └── N_1000_filtered_train_data_with_features.csv
+├── annotate_app.py
+
+📘 Notebooks
+├── install_dataset.ipynb (1)
+├── filter_dataset.ipynb (2)
+├── annotate_dataset.ipynb (3)
+├── extract_and_visualize.ipynb (4)
+├── train_prosody_only_binary.ipynb (5.1)
+├── train_prosody_only_type.ipynb (5.2)
+├── train_multi_modal_binary.ipynb (5.3)
+├── train_multi_modal_type.ipynb (5.4)
+├── agreement_score.py
+
+
+📀 Final Dataset
+├── N_1000_filtered_train_data_with_features.csv
+
+📄 Other CSV Data Files (copy stored in Example Files)
+├── N_1000_filtered_train_data.csv
+├── filtered_train_data.csv
+├── train_data.csv
+├── atc_audio_annotations.csv
+├── atc_audio_annotations_Jimmy.csv
+├── atc_audio_annotations_Jonathan.csv
+├── atc_audio_annotations_Lucy.csv
+
+📁 Model Files
+├── best_model.pt
+
+📂 audio_files (only exist after installing dataset)
+
 
 ```
 
@@ -91,7 +111,12 @@ Now that you have an annotated dataset of 1,000 examples, it is time to extract 
 
 To train classifiers and generate results, run 
 
-> train.ipynb
+```
+5.1 - train_prosody_only_binary.ipynb
+5.2 - train_prosody_only_type.ipynb 
+5.3 - train_multi_modal_binary.ipynb 
+5.4 - train_multi_modal_type.ipynb 
+```
 
 # Self-Reflection
 
