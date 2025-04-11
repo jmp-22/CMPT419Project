@@ -8,16 +8,28 @@ https://huggingface.co/docs/huggingface_hub/quick-start
 
 Once you have a token, you can begin! Please note that approximately 700 mb of storage is required.
 
+## 0. Setup Python Virtual Environment
+
+Create a virtual environment folder by running the following commands in a terminal window inside the Project Directory:
+
+```python3 -m venv env```
+
+```source env/bin/activate```
+
+You should see (env) next to your command prompt.
+
+Run ```pip install -r requirements.txt``` to install required modules
+
 ## 1. Install Dataset
 
-Open  
+Open and run 
 > install_dataset.ipynb
 
-in your favourite code editor (VSCode was used for this project). Running the cells in order will load the audio files and accompanying transcriptions to your project folder. Names will be automatically set and should not be manually renamed to avoid file path confusion later in this project. Please note that the download can take anywhere from 2-10 minutes depending on network speed.
+(VSCode was used for this project). Running the cells in order will load the audio files and accompanying transcriptions to your project folder. Names will be automatically set and should not be manually renamed to avoid file path confusion later in this project. Please note that the download can take anywhere from 2-10 minutes depending on network speed.
 
 ## 2. Filter Dataset
 
-Once the dataset has been downloaded, open 
+Once the dataset has been downloaded, open and run
 > filter_dataset.ipynb 
 
  to reduce the number of instances to a more usable amount! Run the notebook cells in order to create a CSV containing 1,000 instances. There is roughly a 50/50 split of suspected questions and suspected statements. At the end of this step, you'll be left with a CSV called: 
@@ -51,5 +63,13 @@ Now that you have an annotated dataset of 1,000 examples, it is time to extract 
 
 ## 5. Train
 
-TBD
+To train classifiers and generate results, run 
+
+> train.ipynb
+
+# Self-Reflection
+
+
+
+
 
