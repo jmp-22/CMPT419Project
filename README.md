@@ -3,7 +3,7 @@
 ## Project Structure
 
 There are 5 notebooks in this project that must be run in order. 
-No dataset is included in this repository, it must be downloaded if you wish to run the following project. However, to generate training results, the train.ipynb notebook can be run using the example file ```N_1000_filtered_train_data_with_features.csv``` located in ```example_files```
+No dataset is included in this repository, it must be downloaded if you wish to all components of the project. However, to generate training results, the train_*.ipynb notebooks can be run as-is using the example file ```N_1000_filtered_train_data_with_features.csv```.
 
 
 Project structure
@@ -41,7 +41,8 @@ Project structure
 📁 Model Files
 ├── best_model.pt
 
-📂 audio_files (only exist after installing dataset)
+📂 audio_files (only exists after installing dataset)
+📂 val_audio_files (only exists after installing dataset)
 
 
 ```
@@ -52,7 +53,7 @@ https://huggingface.co/datasets/jacktol/atc-dataset
 To download, you will need a huggingface token. Please follow the instructions here to create an account and/or generate a token:
 https://huggingface.co/docs/huggingface_hub/quick-start
 
-Once you have a token, you can begin! Please note that approximately 700 mb of storage is required.
+Once you have a token, you can begin! Please note that up to ```2 GB``` of storage is required.
 
 ## 0. Setup Python Virtual Environment
 
