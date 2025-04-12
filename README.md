@@ -71,6 +71,8 @@ Run ```pip install -r requirements.txt``` to install required modules
 Open and run 
 > install_dataset.ipynb
 
+Please add your huggingface token to this notebook in the 3rd cell
+
 (VSCode was used for this project). Running the cells in order will load the audio files and accompanying transcriptions to your project folder. Names will be automatically set and should not be manually renamed to avoid file path confusion later in this project. Please note that the download can take anywhere from 2-10 minutes depending on network speed.
 
 ## 2. Filter Dataset
@@ -104,8 +106,10 @@ Now that you have an annotated dataset of 1,000 examples, it is time to extract 
  in order and a new CSV containing the audio paths, transcription, labels, and features will be created. This new file will be called:
  
  > N_1000_filtered_train_data_with_features.csv 
+
+ To skip the lengthy feature extraction process (3-5 minutes), skip halfway down the notebook to the **Run from Here:** heading.
  
- You can also visualize scatter plots of features and graphs showing useful information about the dataset, many of which are used in our report and presentation.
+ You can visualize scatter plots of features and graphs showing useful information about the dataset, many of which are used in our report and presentation.
 
 ## 5. Train
 
