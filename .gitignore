@@ -1,2 +1,4 @@
 /env
 /audio_files
+/val_audio_files
+/val_data.csv
